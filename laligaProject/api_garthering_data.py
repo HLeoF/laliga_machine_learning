@@ -4,7 +4,7 @@ import pandas as pd
 
 url = "https://api-football-v1.p.rapidapi.com/v3/teams"
 
-UR_KEY = "41cd2e76d5msh33f2a9a0026698bp1d5129jsnc602132a1e0b"
+UR_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 headers = {
 	"X-RapidAPI-Key": UR_KEY ,

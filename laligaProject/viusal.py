@@ -14,7 +14,7 @@ club = pd.read_csv(filename1)
 temp = player[['playerName','nationality']]
 temp = temp.drop_duplicates(subset=['playerName'])
 
-
+plt.figure(figsize=(15, 5))
 sns.countplot(x="nationality", data=temp, order = temp['nationality'].value_counts().index)
 plt.xticks(rotation=90)
 plt.title("number of Nationality")
@@ -78,6 +78,6 @@ cff = club.groupby(['teamName','season'])[['lose_home','lose_away']].sum().reset
 cff['total_lose'] = cff['lose_home']+cff['lose_away']
 cff = cff[cff['teamName'].isin(['Atletico Madrid','Barcelona','Sevilla','Athletic Club','Real Madrid'])]
 sns.lineplot(x = 'season', y = 'total_lose',hue = 'teamName', data=cff)
-plt.title("Total Loses For clubs 2020 TO 2023")
+plt.title("Total Losses For clubs 2020 TO 2023")
 plt.ylabel("Number of Total Loses")
 plt.show()

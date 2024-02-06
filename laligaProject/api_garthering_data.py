@@ -1,9 +1,17 @@
+# Author: Maiqi Hou
+# Football API garthering Data
+# Machine Learning
+
+
 import requests
 import json as json
 import pandas as pd
 
+#API endpoint
 url = "https://api-football-v1.p.rapidapi.com/v3/teams"
 
+# Your API key, for safety, if you need my key, please let me konws
+# I will share my key to you, Thank you ^_^
 UR_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 headers = {
@@ -14,17 +22,20 @@ headers = {
 LALIGA = "140"
 TEAMS = 20
 
+# Greate 4 la liga teams list, to store team id for each year
+# in order to get the each team stat every years
 team_2020 = []
 team_2021 = []
 team_2022 = []
 team_2023 = []
 
 print("Getting Data From API, Please Wait..........")
-
+# Function for get team ID of every season from API
 def get_teamid(url, headers, query):
   response = requests.get(url, headers=headers, params=query)
   return response
 
+# parsed teamID from JSON format
 def teamsID_array(parsed,idList):
   for n in range(0,20):
     idList.append(parsed['response'][n]['team']['id'])
@@ -42,6 +53,8 @@ for y in range(2020,2024):
     teamsID_array(parsed,team_2022)
   else:
     teamsID_array(parsed,team_2023)
+
+################### Creare elements list of players ################
 
 # player basic information
 teamID = []
@@ -114,6 +127,8 @@ penalty_scored = []
 penalty_missed = []
 penalty_saved = []
 
+################### Creare elements list of players ################
+
 # team information
 team_ID = []
 team_Name = []
@@ -135,12 +150,12 @@ goal_against_away = []
 url2 = "https://api-football-v1.p.rapidapi.com/v3/players"
 url3 = "https://api-football-v1.p.rapidapi.com/v3/teams/statistics"
 
-
+# function get API request
 def get_request(url, headers, query):
   response = requests.get(url, headers=headers, params=query)
   return response
 
-
+# function for get the players JSON context from API call
 def get_player_data(team_id, year):
   for id in team_id:
     qs = {"league":"140","team":str(id),"season":str(year)}
@@ -148,6 +163,7 @@ def get_player_data(team_id, year):
     parsed = json.loads(response.text)
     parsed_player_information(parsed)
 
+# function for get team information JSON context from API call
 def get_teams_data(team_id,year):
   for id in team_id:
     qs = {"league":"140","team":str(id),"season":str(year)}
@@ -155,6 +171,9 @@ def get_teams_data(team_id,year):
     parsed = json.loads(response.text)
     parsed_teams_data(parsed)
 
+############################ Parsing data from JSON format ####################
+
+# Parsed data data and append these data into clubs'element lists
 def parsed_teams_data(parsed):
   data = parsed['response']
   team_ID.append(data['team']['id'])
@@ -174,6 +193,7 @@ def parsed_teams_data(parsed):
   goal_against_home.append(data['goals']['against']['total']['home'])
   goal_against_away.append(data['goals']['against']['total']['away'])
 
+# Parsed players data and append these data into players'element lists
 def parsed_player_information(parsed):
   data = parsed['response']
   for i in range(0,20):
@@ -266,6 +286,7 @@ get_teams_data(team_2023,2023)
 print("Done........")
 
 
+# Create a players dataframe
 print("Creating DataFrames..........")
 laliga_df = pd.DataFrame({
     "season":year, "teamId":teamID, "teamName":team, "playerName":name,
@@ -288,7 +309,7 @@ laliga_df = pd.DataFrame({
 })
 
 
-
+#Create a team dataframe
 laliga_team_df = pd.DataFrame({
     "season": team_year, "teamID":team_ID, "teamName":team_Name,
     "win_home":win_home, "win_away":win_away,
@@ -302,6 +323,8 @@ laliga_team_df = pd.DataFrame({
 print("Done........")
 
 print("Saving DataFrames As CSV files......")
+
+#stored dataframes into CSV files
 laliga_team_df.to_csv("raw_laliga_teamDF.csv", index=False)
 laliga_df.to_csv("raw_laliga_playerDF.csv", index=False)
 print("Successfully Saved, Enjoy :)")

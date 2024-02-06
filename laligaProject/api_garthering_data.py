@@ -294,8 +294,10 @@ laliga_team_df = pd.DataFrame({
     "win_home":win_home, "win_away":win_away,
     "draw_home":draw_home, "draw_away":draw_away,
     "lose_home":lose_home, "lose_away":lose_away,
-    "goal_for_home":goal_for_home, "goal_for_away":goal_for_away,
-    "goal_against_home":goal_against_home, "goal_for_away":goal_against_away
+    "goal_for_home":goal_for_home, "goal_for_home":goal_for_home,
+    "goal_for_away":goal_for_home, "goal_for_away":goal_for_away,
+    "goal_against_home":goal_against_home, "goal_for_away":goal_against_away,
+    "goal_against_away":goal_against_home, "goal_for_away":goal_against_away
 })
 print("Done........")
 

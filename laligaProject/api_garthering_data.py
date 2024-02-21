@@ -12,7 +12,7 @@ url = "https://api-football-v1.p.rapidapi.com/v3/teams"
 
 # Your API key, for safety, if you need my key, please let me konws
 # I will share my key to you, Thank you ^_^
-UR_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+UR_KEY = "41cd2e76d5msh33f2a9a0026698bp1d5129jsnc602132a1e0b"
 
 headers = {
 	"X-RapidAPI-Key": UR_KEY ,
@@ -158,7 +158,7 @@ def get_request(url, headers, query):
 # function for get the players JSON context from API call
 def get_player_data(team_id, year):
   for id in team_id:
-    qs = {"league":"140","team":str(id),"season":str(year)}
+    qs = {"team":str(id),"season":str(year)}
     response = get_request(url2, headers, qs)
     parsed = json.loads(response.text)
     parsed_player_information(parsed)
@@ -292,7 +292,7 @@ laliga_df = pd.DataFrame({
     "season":year, "teamId":teamID, "teamName":team, "playerName":name,
     "birthDate":birth, "playerAge":age, "nationality":nationality,
     "height(cm)":height, "weight(kg)":weight, "injured":injured,
-    "game_appear":game_appearences, "game_lineups":game_linups, "game_minutes":game_number,
+    "game_appear":game_appearences, "game_lineups":game_linups, "game_minutes":game_minutes,
     "number":game_number, "position":game_position, "rating":game_rating,
     "captain":captain,"sub_in":substitu_in, "sub_out":substitu_out,"sub_bench":substitu_bench,
     "shots_total":shots_total, "shots_on":shots_on,"goals_total":goal_total,

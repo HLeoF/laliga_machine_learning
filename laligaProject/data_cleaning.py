@@ -23,8 +23,7 @@ fig, axes = plt.subplots(2, 3, figsize=(15, 8))
 # sns.countplot(x='dribble_past', data=player, ax=axes[1][2])
 # plt.show()
 
-p_clean = player.drop(['teamId', 'birthDate','injured',
-             'game_minutes','number','captain',
+p_clean = player.drop(['teamId', 'birthDate','injured','number','captain',
              'penalty_won','dribble_past'], axis=1)
 
 ## drop some characters
@@ -40,7 +39,7 @@ for name in ColumnNamesList:
     print(total_nas)
 
 ### Fill NaN
-cols = ['rating','game_appear', 'game_lineups', 'sub_in', 'sub_out', 'sub_bench',
+cols = ['rating','game_appear','game_minutes','game_lineups', 'sub_in', 'sub_out', 'sub_bench',
         'shots_total', 'shots_on', 'goals_total', 'goal_conceded',
         'goal_assists', 'goal_saved', 'pass_total', 'key_pass', 'pass_accura',
         'tackle_total', 'tackle_blocks', 'tackle_intercep', 'duel_total',
@@ -57,7 +56,7 @@ p_clean["weight(kg)"] = pd.to_numeric(p_clean["weight(kg)"], errors='coerce')
 p_clean["position"] = p_clean["position"].astype('category')
 
 
-
+# Fill NaN value of height and weight with their mean values
 height_mean = p_clean['height(cm)'].mean(skipna=True)
 weight_mean = p_clean['weight(kg)'].mean(skipna=True)
 p_clean['height(cm)'] = p_clean['height(cm)'].fillna(height_mean)

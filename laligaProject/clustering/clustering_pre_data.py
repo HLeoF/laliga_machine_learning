@@ -1,12 +1,5 @@
-import numpy as np
+
 import pandas as pd
-import statistics as stat
-import seaborn as sns
-import matplotlib.pyplot as plt
-import plotly.express as px
-from sklearn.cluster import KMeans
-from sklearn.preprocessing import StandardScaler
-from sklearn.metrics import silhouette_score
 
 ################ Data Transforming ###########################
 player = pd.read_csv("clean_laliga_playerDF.csv")

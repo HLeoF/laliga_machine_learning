@@ -28,15 +28,15 @@ df <- merge(club, player, by = c("season", "teamName"))
 head(df,10)
 
 #Processing Dataset transform to Transacation Data
-df <- df[c("game_minutes","rating","rate_saved","PTS")]
-df1 <- df %>%
+df1 <- df[c("game_minutes","rating","rate_saved","PTS")]
+df1 <- df1 %>%
   mutate(game_minutes= case_when(
     game_minutes < 1140 ~ "LessTime_Games",
     game_minutes >= 1140 & game_minutes < 2280 ~ "NormalTime_Games",
     game_minutes >= 2280 ~ "LargeTime_Games"
   ))%>%
   mutate(rating= case_when(
-    rating < 6.5 ~ "Bad_Preformance",
+    rating < 6.0 ~ "Bad_Preformance",
     rating >= 6.0 & rating < 6.9 ~ "Normal_Preformance",
     rating >= 6.9 ~ "Good_Preformance"
   ))%>%
@@ -54,3 +54,4 @@ head(df1,10)
 
 ## Write Transcation Data into a CSV file, and ready to ARM 
 write.table(df1, file = "arm.csv", sep = ",", row.names = FALSE, col.names = FALSE, quote = FALSE)
+

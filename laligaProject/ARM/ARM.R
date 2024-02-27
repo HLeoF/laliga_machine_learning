@@ -24,7 +24,7 @@ inspect(support[1:15])
 subrules <- head(sort(support,by="support"),15)
 plot(subrules,method="graph",engine ="interactive")
 
-# 15 Support
+# 15 Confidence
 confidence <- sort(rules, by = "confidence", decreasing = TRUE)
 inspect(confidence[1:15])
 
@@ -33,7 +33,7 @@ plot(subrules1,method="graph",engine ="interactive")
 
 #15 Lift
 lift <- sort(rules, by = "lift", decreasing = TRUE)
-inspect(life[1:15])
+inspect(lift[1:15])
 
 subrules2 <- head(sort(lift,by="lift"),15)
 plot(subrules2,method="graph",engine ="interactive")

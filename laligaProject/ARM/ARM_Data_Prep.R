@@ -54,27 +54,3 @@ head(df1,10)
 
 ## Write Transcation Data into a CSV file, and ready to ARM 
 write.table(df1, file = "arm.csv", sep = ",", row.names = FALSE, col.names = FALSE, quote = FALSE)
-
-# Read CSV file data as Transaction Data
-arm <- read.transactions("arm.csv", 
-                         rm.duplicates = FALSE, 
-                         format="basket",
-                         sep = ",",
-                         cols=NULL,
-                         header = FALSE)
-
-### Apply ARM rules
-rules <- arules::apriori(arm, parameter = list(supp=0.01, conf=0.5, minlen=2))
-
-
-# 15 Support
-support <- sort(rules, by = "support", decreasing = TRUE)
-inspect(support[1:15])
-
-subrules <- head(sort(support,by="support"),15)
-plot(subrules,method="graph",engine ="interactive")
-
-# 15 Support
-confidence <- sort(rules, by = "confidence", decreasing = TRUE)
-inspect(confidence[1:15])
-

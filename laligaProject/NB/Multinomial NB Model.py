@@ -85,7 +85,7 @@ temp3 = playerTestDF.reset_index()
 temp3 = temp3.drop(['index'],axis=1)
 merged_df = pd.merge(temp3, temp, left_index=True, right_index=True)
 merged_df = merged_df.iloc[:, 0:14]
-club = pd.read_csv("/content/clustering_analysis_df.csv")
+club = pd.read_csv("Clubs_DF.csv")
 club = club[['season','teamName','PTS']]
 club = club.drop_duplicates()
 merged_df = pd.merge(merged_df, club, on=['season','teamName'],how='left')

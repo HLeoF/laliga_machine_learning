@@ -20,4 +20,4 @@ clustering_df = pd.merge(df, club, on=['season', 'teamName'])
 
 print(clustering_df.dtypes)
 
-clustering_df.to_csv("clustering_analysis_df.csv")
+clustering_df.to_csv("Clubs_DF.csv")

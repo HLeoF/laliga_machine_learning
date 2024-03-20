@@ -4,7 +4,7 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import silhouette_score
 
-clustering_df = pd.read_csv("clustering_analysis_df.csv")
+clustering_df = pd.read_csv("../NB/Clubs_DF.csv")
 
 ######################### K-Means Clustering ##############
 

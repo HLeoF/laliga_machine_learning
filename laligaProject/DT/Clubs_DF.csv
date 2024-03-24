@@ -1,0 +1,1452 @@
+,season,teamName,playerName,shots_total,shots_on,goals_total,PTS
+0,2020,Barcelona,A. Griezmann,62.0,34.0,13.0,79
+1,2020,Barcelona,Jordi Alba,25.0,10.0,3.0,79
+2,2020,Barcelona,Chumi,0.0,0.0,0.0,79
+3,2020,Barcelona,Piqué,7.0,2.0,0.0,79
+4,2020,Barcelona,Sergi Roberto,3.0,1.0,1.0,79
+5,2020,Barcelona,Rafinha,0.0,0.0,0.0,79
+6,2020,Barcelona,Sergio Busquets,2.0,1.0,0.0,79
+7,2020,Barcelona,Philippe Coutinho,21.0,10.0,2.0,79
+8,2020,Barcelona,L. Messi,141.0,91.0,30.0,79
+9,2020,Barcelona,L. Suárez,0.0,0.0,0.0,79
+10,2020,Barcelona,F. de Jong,13.0,6.0,3.0,79
+11,2020,Barcelona,M. Pjanić,12.0,3.0,0.0,79
+12,2020,Barcelona,R. Manaj,0.0,0.0,0.0,79
+13,2020,Barcelona,Carles Pérez,0.0,0.0,0.0,79
+14,2020,Barcelona,R. Araujo,10.0,4.0,2.0,79
+15,2020,Barcelona,Pedri,18.0,9.0,3.0,79
+16,2020,Barcelona,Óscar Mingueza,11.0,6.0,2.0,79
+17,2020,Barcelona,Gustavo Maia,0.0,0.0,0.0,79
+18,2020,Atletico Madrid,J. Giménez,12.0,5.0,0.0,86
+19,2020,Atletico Madrid,S. Savić,5.0,2.0,1.0,86
+20,2020,Atletico Madrid,T. Lemar,18.0,11.0,1.0,86
+21,2020,Atletico Madrid,Vitolo,2.0,0.0,0.0,86
+22,2020,Atletico Madrid,Saúl,26.0,13.0,2.0,86
+23,2020,Atletico Madrid,Koke,10.0,7.0,1.0,86
+24,2020,Atletico Madrid,Á. Correa,41.0,23.0,9.0,86
+25,2020,Atletico Madrid,L. Suárez,87.0,43.0,21.0,86
+26,2020,Atletico Madrid,Šime Vrsaljko,0.0,0.0,0.0,86
+27,2020,Atletico Madrid,João Félix,31.0,16.0,7.0,86
+28,2020,Atletico Madrid,Marcos Llorente,41.0,22.0,12.0,86
+29,2020,Atletico Madrid,Hermoso,15.0,5.0,1.0,86
+30,2020,Atletico Madrid,Y. Carrasco,36.0,24.0,6.0,86
+31,2020,Atletico Madrid,I. Šaponjić,0.0,0.0,0.0,86
+32,2020,Atletico Madrid,Josep Calavera,0.0,0.0,0.0,86
+33,2020,Atletico Madrid,Óscar Castro,0.0,0.0,0.0,86
+34,2020,Atletico Madrid,Ricard Sánchez,1.0,0.0,0.0,86
+35,2020,Atletico Madrid,Álvaro García,0.0,0.0,0.0,86
+36,2020,Atletico Madrid,Adrián Corral,0.0,0.0,0.0,86
+37,2020,Athletic Club,Íñigo Martínez,17.0,7.0,1.0,46
+38,2020,Athletic Club,Muniain,17.0,11.0,5.0,46
+39,2020,Athletic Club,Álex Berenguer,34.0,15.0,8.0,46
+40,2020,Athletic Club,Balenziaga,3.0,1.0,0.0,46
+41,2020,Athletic Club,Yuri,12.0,6.0,1.0,46
+42,2020,Athletic Club,De Marcos,6.0,5.0,1.0,46
+43,2020,Athletic Club,Lekue,2.0,1.0,0.0,46
+44,2020,Athletic Club,Unai Núñez,11.0,5.0,1.0,46
+45,2020,Athletic Club,Dani García,5.0,1.0,0.0,46
+46,2020,Athletic Club,Raúl García,36.0,14.0,5.0,46
+47,2020,Athletic Club,Ibai Gómez,4.0,0.0,0.0,46
+48,2020,Athletic Club,Unai López,16.0,10.0,3.0,46
+49,2020,Athletic Club,K. Kodro,2.0,2.0,1.0,46
+50,2020,Athletic Club,I. Williams,35.0,17.0,6.0,46
+51,2020,Athletic Club,Mikel Vesga,16.0,5.0,0.0,46
+52,2020,Athletic Club,Asier Villalibre,33.0,14.0,4.0,46
+53,2020,Athletic Club,Oihan Sancet,17.0,6.0,2.0,46
+54,2020,Athletic Club,Julen Bernaola,0.0,0.0,0.0,46
+55,2020,Athletic Club,Beñat Prados,0.0,0.0,0.0,46
+56,2020,Athletic Club,Nico Williams,1.0,0.0,0.0,46
+57,2020,Valencia,Álex Centelles,0.0,0.0,0.0,43
+58,2020,Valencia,Gabriel Paulista,13.0,6.0,4.0,43
+59,2020,Valencia,M. Diakhaby,8.0,4.0,1.0,43
+60,2020,Valencia,José Gayà,19.0,5.0,1.0,43
+61,2020,Valencia,Hugo Guillamón,7.0,1.0,1.0,43
+62,2020,Valencia,Toni Lato,2.0,2.0,1.0,43
+63,2020,Valencia,Gonçalo Guedes,34.0,15.0,5.0,43
+64,2020,Valencia,Lee Kang-In,16.0,7.0,0.0,43
+65,2020,Valencia,Carlos Soler,27.0,17.0,11.0,43
+66,2020,Valencia,Rubén Sobrino,7.0,5.0,0.0,43
+67,2020,Valencia,Thierry Correia,8.0,2.0,1.0,43
+68,2020,Valencia,M. Gómez,39.0,25.0,7.0,43
+69,2020,Valencia,K. Sibille,0.0,0.0,0.0,43
+70,2020,Valencia,C. Oliva,2.0,1.0,0.0,43
+71,2020,Valencia,Guillem Molina,0.0,0.0,0.0,43
+72,2020,Valencia,Jesús Vázquez,0.0,0.0,0.0,43
+73,2020,Valencia,Vicente Esquerdo,1.0,0.0,0.0,43
+74,2020,Villarreal,Paco Alcácer,28.0,20.0,6.0,58
+75,2020,Villarreal,J. Foyth,1.0,0.0,0.0,58
+76,2020,Villarreal,Alberto Moreno,1.0,0.0,0.0,58
+77,2020,Villarreal,Raúl Albiol,8.0,1.0,0.0,58
+78,2020,Villarreal,F. Coquelin,1.0,0.0,0.0,58
+79,2020,Villarreal,Dani Parejo,22.0,9.0,3.0,58
+80,2020,Villarreal,Jaume Costa,2.0,0.0,0.0,58
+81,2020,Villarreal,Alfonso Pedraza,15.0,8.0,1.0,58
+82,2020,Villarreal,A. Rațiu,0.0,0.0,0.0,58
+83,2020,Villarreal,Manu Trigueros,18.0,8.0,1.0,58
+84,2020,Villarreal,Gerard Moreno,78.0,47.0,23.0,58
+85,2020,Villarreal,É. Capoue,7.0,3.0,1.0,58
+86,2020,Villarreal,Pau Torres,8.0,3.0,2.0,58
+87,2020,Villarreal,Rubén Peña,4.0,2.0,1.0,58
+88,2020,Villarreal,Moi Gómez,16.0,11.0,4.0,58
+89,2020,Villarreal,Álex Baena,2.0,1.0,0.0,58
+90,2020,Villarreal,Yeremy Pino,9.0,5.0,3.0,58
+91,2020,Sevilla,Óliver Torres,8.0,3.0,0.0,77
+92,2020,Sevilla,J. Koundé,18.0,6.0,2.0,77
+93,2020,Sevilla,Suso,36.0,17.0,3.0,77
+94,2020,Sevilla,L. Ocampos,54.0,21.0,5.0,77
+95,2020,Sevilla,J. Gnagnon,0.0,0.0,0.0,77
+96,2020,Sevilla,Javi Vázquez,0.0,0.0,0.0,77
+97,2020,Sevilla,Aleix Vidal,1.0,0.0,0.0,77
+98,2020,Sevilla,Bryan Gil,30.0,16.0,0.0,77
+99,2020,Sevilla,K. Rekik,2.0,0.0,0.0,77
+100,2020,Sevilla,Álex Pozo,9.0,1.0,0.0,77
+101,2020,Sevilla,Joan Jordán,19.0,4.0,1.0,77
+102,2020,Sevilla,Y. En-Nesyri,68.0,29.0,18.0,77
+103,2020,Sevilla,Kike Ríos,0.0,0.0,0.0,77
+104,2020,Sevilla,Juanlu Sánchez,0.0,0.0,0.0,77
+105,2020,Sevilla,Antonio Zarzana,0.0,0.0,0.0,77
+106,2020,Sevilla,Pablo Pérez,0.0,0.0,0.0,77
+107,2020,Celta Vigo,J. Murillo,6.0,3.0,2.0,53
+108,2020,Celta Vigo,Santi Mina,41.0,22.0,12.0,53
+109,2020,Celta Vigo,Denis Suárez,12.0,3.0,0.0,53
+110,2020,Celta Vigo,J. Aidoo,5.0,0.0,0.0,53
+111,2020,Celta Vigo,Nolito,38.0,23.0,7.0,53
+112,2020,Celta Vigo,R. Tapia,14.0,5.0,0.0,53
+113,2020,Celta Vigo,David Juncà,0.0,0.0,0.0,53
+114,2020,Celta Vigo,Kevin Vázquez,1.0,0.0,0.0,53
+115,2020,Celta Vigo,Fran Beltrán,15.0,7.0,3.0,53
+116,2020,Celta Vigo,Iago Aspas,43.0,27.0,14.0,53
+117,2020,Celta Vigo,Alfon González,1.0,1.0,0.0,53
+118,2020,Celta Vigo,Miguel Rodríguez,0.0,0.0,0.0,53
+119,2020,Celta Vigo,Raúl Blanco,0.0,0.0,0.0,53
+120,2020,Celta Vigo,Gael Alonso,0.0,0.0,0.0,53
+121,2020,Celta Vigo,Carlos Domínguez,1.0,1.0,0.0,53
+122,2020,Celta Vigo,Hugo Sotelo,0.0,0.0,0.0,53
+123,2020,Levante,Hernâni,0.0,0.0,0.0,41
+124,2020,Levante,Coke,8.0,2.0,0.0,41
+125,2020,Levante,Toño,2.0,0.0,0.0,41
+126,2020,Levante,Rúben Vezo,2.0,2.0,1.0,41
+127,2020,Levante,C. Doukouré,0.0,0.0,0.0,41
+128,2020,Levante,Campaña,10.0,5.0,1.0,41
+129,2020,Levante,José Luis Morales,47.0,27.0,13.0,41
+130,2020,Levante,Rochina,29.0,7.0,0.0,41
+131,2020,Levante,N. Vukčević,2.0,0.0,0.0,41
+132,2020,Levante,Roger,40.0,23.0,12.0,41
+133,2020,Levante,Gonzalo Melero,21.0,9.0,7.0,41
+134,2020,Levante,Dani Gómez,22.0,8.0,2.0,41
+135,2020,Levante,Alfredo Pedraza,0.0,0.0,0.0,41
+136,2020,Levante,Jorge de Frutos,23.0,11.0,4.0,41
+137,2020,Levante,Eusebio Monzó,0.0,0.0,0.0,41
+138,2020,Levante,E. Sevikyan,0.0,0.0,0.0,41
+139,2020,Real Madrid,Éder Militão,10.0,3.0,1.0,84
+140,2020,Real Madrid,F. Mendy,10.0,2.0,1.0,84
+141,2020,Real Madrid,Dani Carvajal,4.0,2.0,0.0,84
+142,2020,Real Madrid,Nacho,11.0,3.0,1.0,84
+143,2020,Real Madrid,Sergio Ramos,14.0,6.0,2.0,84
+144,2020,Real Madrid,T. Kroos,29.0,12.0,3.0,84
+145,2020,Real Madrid,L. Modrić,29.0,15.0,5.0,84
+146,2020,Real Madrid,F. Valverde,17.0,8.0,3.0,84
+147,2020,Real Madrid,Lucas Vázquez,16.0,8.0,2.0,84
+148,2020,Real Madrid,M. Díaz,13.0,6.0,1.0,84
+149,2020,Real Madrid,Vinícius Júnior,30.0,13.0,3.0,84
+150,2020,Real Madrid,E. Hazard,9.0,5.0,3.0,84
+151,2020,Real Madrid,Rodrygo,15.0,5.0,1.0,84
+152,2020,Real Madrid,Miguel Gutiérrez,0.0,0.0,0.0,84
+153,2020,Real Madrid,Sergio Arribas,1.0,1.0,0.0,84
+154,2020,Real Madrid,Víctor Chust,0.0,0.0,0.0,84
+155,2020,Real Madrid,Sergio Santos,0.0,0.0,0.0,84
+156,2020,Alaves,Lucas Pérez,24.0,13.0,4.0,38
+157,2020,Alaves,F. Lejeune,19.0,6.0,1.0,38
+158,2020,Alaves,Joselu,71.0,33.0,11.0,38
+159,2020,Alaves,Jota Peleteiro,6.0,2.0,0.0,38
+160,2020,Alaves,Rafa Navarro,0.0,0.0,0.0,38
+161,2020,Alaves,Luis Rioja,16.0,9.0,4.0,38
+162,2020,Alaves,Laguardia,6.0,3.0,0.0,38
+163,2020,Alaves,Ximo Navarro,7.0,3.0,1.0,38
+164,2020,Alaves,Burgui,0.0,0.0,0.0,38
+165,2020,Alaves,Manu García,7.0,1.0,0.0,38
+166,2020,Alaves,Tomás Pina,7.0,1.0,1.0,38
+167,2020,Alaves,F. Pellistri,5.0,2.0,0.0,38
+168,2020,Alaves,Sergi García,0.0,0.0,0.0,38
+169,2020,Alaves,A. Mahmoud,0.0,0.0,0.0,38
+170,2020,Alaves,Ismael Gutiérrez,0.0,0.0,0.0,38
+171,2020,Alaves,Pepe Blanco,0.0,0.0,0.0,38
+172,2020,Alaves,S. Keller,0.0,0.0,0.0,38
+173,2020,Alaves,Robert Vallribera,0.0,0.0,0.0,38
+174,2020,Alaves,Eneko Ortiz,0.0,0.0,0.0,38
+175,2020,Real Betis,Juan Miranda,7.0,3.0,1.0,61
+176,2020,Real Betis,N. Fekir,59.0,28.0,5.0,61
+177,2020,Real Betis,Y. Fékir,0.0,0.0,0.0,61
+178,2020,Real Betis,Marc Bartra,8.0,4.0,0.0,61
+179,2020,Real Betis,Sidnei,0.0,0.0,0.0,61
+180,2020,Real Betis,A. Mandi,8.0,7.0,3.0,61
+181,2020,Real Betis,P. Akouokou,0.0,0.0,0.0,61
+182,2020,Real Betis,Joaquín,6.0,5.0,2.0,61
+183,2020,Real Betis,William Carvalho,12.0,6.0,2.0,61
+184,2020,Real Betis,G. Rodríguez,21.0,9.0,1.0,61
+185,2020,Real Betis,A. Sanabria,22.0,12.0,3.0,61
+186,2020,Real Betis,Aitor Ruibal,24.0,14.0,2.0,61
+187,2020,Real Betis,Juanmi,10.0,6.0,2.0,61
+188,2020,Real Betis,Borja Iglesias,28.0,16.0,11.0,61
+189,2020,Real Betis,Rodri,3.0,0.0,0.0,61
+190,2020,Real Betis,Calderón,0.0,0.0,0.0,61
+191,2020,Real Betis,Geovanni Barba,0.0,0.0,0.0,61
+192,2020,Eibar,Iñaki Bea,0.0,0.0,0.0,30
+193,2020,Eibar,P. Diop,20.0,9.0,1.0,30
+194,2020,Eibar,José Martínez,0.0,0.0,0.0,30
+195,2020,Eibar,E. Burgos,6.0,5.0,3.0,30
+196,2020,Eibar,Unai Arieta,0.0,0.0,0.0,30
+197,2020,Eibar,Eñaut Mendia,1.0,0.0,0.0,30
+198,2020,Eibar,Unai Dufur,0.0,0.0,0.0,30
+199,2020,Eibar,Pedro León,16.0,5.0,1.0,30
+200,2020,Eibar,Recio,7.0,3.0,1.0,30
+201,2020,Eibar,Roberto Olabe,0.0,0.0,0.0,30
+202,2020,Eibar,T. Inui,27.0,17.0,1.0,30
+203,2020,Eibar,Asier Benito,0.0,0.0,0.0,30
+204,2020,Eibar,Kévin Rodrigues,8.0,4.0,1.0,30
+205,2020,Eibar,Aleix García,2.0,1.0,0.0,30
+206,2020,Eibar,Bryan Gil,30.0,16.0,4.0,30
+207,2020,Eibar,Álex Pozo,9.0,1.0,0.0,30
+208,2020,Eibar,Kike García,75.0,34.0,12.0,30
+209,2020,Eibar,Rafa Soares,1.0,0.0,0.0,30
+210,2020,Eibar,Sergi Enrich,34.0,15.0,3.0,30
+211,2020,Getafe,Carles Aleñá,1.0,0.0,2.0,38
+212,2020,Getafe,R. Nolan,0.0,0.0,0.0,38
+213,2020,Getafe,Jaime Mata,33.0,19.0,5.0,38
+214,2020,Getafe,N. Maksimović,12.0,5.0,1.0,38
+215,2020,Getafe,T. Kubo,11.0,7.0,1.0,38
+216,2020,Getafe,D. Dakonam,2.0,0.0,0.0,38
+217,2020,Getafe,M. Olivera,13.0,4.0,0.0,38
+218,2020,Getafe,D. Suárez,7.0,2.0,1.0,38
+219,2020,Getafe,M. Arambarri,35.0,9.0,3.0,38
+220,2020,Getafe,C. Hernández,22.0,11.0,2.0,38
+221,2020,Getafe,Sergio Mora,0.0,0.0,0.0,38
+222,2020,Getafe,David Alba,0.0,0.0,0.0,38
+223,2020,Getafe,Juan Iglesias,4.0,1.0,0.0,38
+224,2020,Getafe,Josete Miranda,1.0,0.0,0.0,38
+225,2020,Getafe,S. Abdulai,0.0,0.0,0.0,38
+226,2020,Getafe,Koffi,0.0,0.0,0.0,38
+227,2020,Getafe,J. Patrick,0.0,0.0,0.0,38
+228,2020,Getafe,Mamor Niang,1.0,0.0,0.0,38
+229,2020,Getafe,Chinchu,0.0,0.0,0.0,38
+230,2020,Real Sociedad,David Silva,15.0,3.0,2.0,62
+231,2020,Real Sociedad,Nacho Monreal,9.0,1.0,1.0,62
+232,2020,Real Sociedad,A. Januzaj,22.0,13.0,4.0,62
+233,2020,Real Sociedad,Carlos Fernández,6.0,4.0,1.0,62
+234,2020,Real Sociedad,Andoni Gorosabel,7.0,2.0,0.0,62
+235,2020,Real Sociedad,Joseba Zaldúa,2.0,1.0,0.0,62
+236,2020,Real Sociedad,Guevara,8.0,2.0,1.0,62
+237,2020,Real Sociedad,Mikel Merino,23.0,10.0,2.0,62
+238,2020,Real Sociedad,Sangalli,0.0,0.0,0.0,62
+239,2020,Real Sociedad,Zubeldia,8.0,4.0,1.0,62
+240,2020,Real Sociedad,Barrenetxea,17.0,7.0,3.0,62
+241,2020,Real Sociedad,Martín Merquelanz,9.0,4.0,0.0,62
+242,2020,Real Sociedad,Mikel Oyarzabal,46.0,27.0,11.0,62
+243,2020,Real Sociedad,Portu,26.0,11.0,8.0,62
+244,2020,Real Sociedad,Robert Navarro,0.0,0.0,0.0,62
+245,2020,Real Sociedad,Jon Guridi,5.0,2.0,0.0,62
+246,2020,Real Sociedad,Jon Ander Olasagasti,0.0,0.0,0.0,62
+247,2020,Real Sociedad,Beñat Turrientes,0.0,0.0,0.0,62
+248,2020,Granada CF,Soldado,22.0,12.0,9.0,46
+249,2020,Granada CF,Y. Herrera,25.0,7.0,3.0,46
+250,2020,Granada CF,R. Azeez,1.0,0.0,0.0,46
+251,2020,Granada CF,Ángel Montoro,11.0,2.0,1.0,46
+252,2020,Granada CF,N. Lozano,0.0,0.0,0.0,46
+253,2020,Granada CF,Echu,0.0,0.0,0.0,46
+254,2020,Granada CF,Jorge Molina,19.0,12.0,8.0,46
+255,2020,Granada CF,E. Abedini,0.0,0.0,0.0,46
+256,2020,Granada CF,K. Fobi,0.0,0.0,0.0,46
+257,2020,Granada CF,Dani Plomer,0.0,0.0,0.0,46
+258,2020,Granada CF,J. Brunet,0.0,0.0,0.0,46
+259,2020,Granada CF,Antoñín Cortés,0.0,0.0,0.0,46
+260,2020,Granada CF,Pepe Sánchez,0.0,0.0,0.0,46
+261,2020,Granada CF,Antonio Aranda,0.0,0.0,0.0,46
+262,2020,Granada CF,Isma Ruiz,0.0,0.0,0.0,46
+263,2020,Granada CF,Álvaro Bravo,0.0,0.0,0.0,46
+264,2020,Granada CF,Carlos León,0.0,0.0,0.0,46
+265,2020,Valladolid,Fede San Emeterio,2.0,0.0,0.0,31
+266,2020,Valladolid,Bruno,4.0,2.0,1.0,31
+267,2020,Valladolid,Miguel Rubio,1.0,0.0,0.0,31
+268,2020,Valladolid,K. Kodro,2.0,2.0,0.0,31
+269,2020,Valladolid,Fabián Orellana,24.0,16.0,6.0,31
+270,2020,Valladolid,Javi Moyano,0.0,0.0,0.0,31
+271,2020,Valladolid,Rubén Alcaraz,23.0,3.0,1.0,31
+272,2020,Valladolid,Míchel Herrero,7.0,5.0,2.0,31
+273,2020,Valladolid,Pablo Hervías,12.0,7.0,0.0,31
+274,2020,Valladolid,Toni Villa,10.0,5.0,2.0,31
+275,2020,Valladolid,Sergi Guardiola,25.0,11.0,1.0,31
+276,2020,Valladolid,Raúl Carnero,3.0,3.0,1.0,31
+277,2020,Valladolid,S. Weissman,31.0,17.0,6.0,31
+278,2020,Valladolid,Sergio Benito,0.0,0.0,0.0,31
+279,2020,Valladolid,Kuki,0.0,0.0,0.0,31
+280,2020,Valladolid,Moha,0.0,0.0,0.0,31
+281,2020,Valladolid,Palomeque,0.0,0.0,0.0,31
+282,2020,Cadiz,José Jurado,0.0,0.0,0.0,44
+283,2020,Cadiz,A. Fernández,0.0,0.0,0.0,44
+284,2020,Cadiz,I. Šaponjić,0.0,0.0,1.0,44
+285,2020,Cadiz,S. Erimuya,0.0,0.0,0.0,44
+286,2020,Cadiz,M. Mauro,5.0,4.0,2.0,44
+287,2020,Cadiz,Jon Garrido,4.0,1.0,0.0,44
+288,2020,Cadiz,Juan Cala,12.0,5.0,3.0,44
+289,2020,Cadiz,F. Malbašić,7.0,1.0,0.0,44
+290,2020,Cadiz,Nano,0.0,0.0,0.0,44
+291,2020,Cadiz,L. Quezada,0.0,0.0,0.0,44
+292,2020,Cadiz,A. Lozano,33.0,14.0,3.0,44
+293,2020,Cadiz,J. Rhyner,0.0,0.0,0.0,44
+294,2020,Cadiz,Marc Baró,1.0,1.0,0.0,44
+295,2020,Cadiz,M. Diarra,0.0,0.0,0.0,44
+296,2020,Cadiz,Kike Carrasco,0.0,0.0,0.0,44
+297,2020,Cadiz,Javi Martín,0.0,0.0,0.0,44
+298,2020,Cadiz,Álvaro Bastida,0.0,0.0,0.0,44
+299,2020,Huesca,Sergio Gómez,7.0,2.0,0.0,34
+300,2020,Huesca,I. Doumbia,4.0,0.0,0.0,34
+301,2020,Huesca,Pablo Maffeo,8.0,5.0,1.0,34
+302,2020,Huesca,Eugeni Valderrama,0.0,0.0,0.0,34
+303,2020,Huesca,Rafa Mir,104.0,46.0,13.0,34
+304,2020,Huesca,Sandro Ramírez,26.0,18.0,5.0,34
+305,2020,Huesca,D. Siovas,28.0,8.0,2.0,34
+306,2020,Huesca,Pedro López,1.0,0.0,0.0,34
+307,2020,Huesca,Borja García,9.0,2.0,1.0,34
+308,2020,Huesca,Luis Carlos Correia Pinto,1.0,0.0,0.0,34
+309,2020,Huesca,Javi Galán,6.0,1.0,1.0,34
+310,2020,Huesca,David Ferreiro,17.0,12.0,2.0,34
+311,2020,Huesca,Kike Hermoso,0.0,0.0,0.0,34
+312,2020,Huesca,J. Peñaloza,0.0,0.0,0.0,34
+313,2020,Huesca,Manu Galán,0.0,0.0,0.0,34
+314,2020,Huesca,Gustavo Abizanda,0.0,0.0,0.0,34
+315,2020,Huesca,Jorge Cofrades,0.0,0.0,0.0,34
+316,2020,Osasuna,Adrián López,7.0,3.0,1.0,44
+317,2020,Osasuna,F. Roncaglia,10.0,2.0,1.0,44
+318,2020,Osasuna,David García,13.0,2.0,1.0,44
+319,2020,Osasuna,Aridane Hernández,2.0,0.0,0.0,44
+320,2020,Osasuna,Oier,12.0,4.0,0.0,44
+321,2020,Osasuna,Nacho Vidal,9.0,2.0,0.0,44
+322,2020,Osasuna,Rubén García,25.0,8.0,3.0,44
+323,2020,Osasuna,Iñigo Pérez,6.0,2.0,0.0,44
+324,2020,Osasuna,Roberto Torres,38.0,15.0,7.0,44
+325,2020,Osasuna,Kike Barja,18.0,12.0,2.0,44
+326,2020,Osasuna,A. Budimir,38.0,22.0,11.0,44
+327,2020,Osasuna,Raúl Navas,0.0,0.0,0.0,44
+328,2020,Osasuna,Jony,8.0,4.0,0.0,44
+329,2020,Osasuna,Jonás Ramalho,0.0,0.0,0.0,44
+330,2020,Osasuna,Manu Sánchez,0.0,0.0,0.0,44
+331,2020,Osasuna,Gorka Zabarte Moreno,0.0,0.0,0.0,44
+332,2020,Osasuna,Asier Córdoba,0.0,0.0,0.0,44
+333,2020,Elche,L. Boyé,43.0,22.0,7.0,36
+334,2020,Elche,Barragán,5.0,0.0,0.0,36
+335,2020,Elche,O. Mfulu,3.0,0.0,0.0,36
+336,2020,Elche,Cifu,3.0,0.0,0.0,36
+337,2020,Elche,Ramón Folch,0.0,0.0,0.0,36
+338,2020,Elche,Jony Ñiguez,0.0,0.0,0.0,36
+339,2020,Elche,Nino,2.0,1.0,0.0,36
+340,2020,Elche,Nacho Ramón,0.0,0.0,0.0,36
+341,2020,Elche,Víctor Rodríguez,0.0,0.0,0.0,36
+342,2020,Elche,J. Mojica,6.0,2.0,0.0,36
+343,2020,Elche,Claudio Medina,0.0,0.0,0.0,36
+344,2020,Elche,David Generelo,0.0,0.0,0.0,36
+345,2020,Elche,César Moreno,0.0,0.0,0.0,36
+346,2020,Elche,Nacho Pastor,0.0,0.0,0.0,36
+347,2020,Elche,Gerard Barri,0.0,0.0,0.0,36
+348,2020,Elche,Diego Bri,0.0,0.0,0.0,36
+349,2020,Elche,Cheikh Diamanka,0.0,0.0,0.0,36
+350,2021,Barcelona,Jordi Alba,22.0,6.0,2.0,73
+351,2021,Barcelona,Guillem Jaime,0.0,0.0,0.0,73
+352,2021,Barcelona,Piqué,14.0,3.0,1.0,73
+353,2021,Barcelona,Sergio Busquets,10.0,4.0,2.0,73
+354,2021,Barcelona,Philippe Coutinho,17.0,7.0,2.0,73
+355,2021,Barcelona,L. Messi,0.0,0.0,0.0,73
+356,2021,Barcelona,Dani Alves,0.0,0.0,0.0,73
+357,2021,Barcelona,F. de Jong,17.0,8.0,3.0,73
+358,2021,Barcelona,S. Agüero,5.0,1.0,1.0,73
+359,2021,Barcelona,M. Pjanić,0.0,0.0,0.0,73
+360,2021,Barcelona,Ferran Torres,40.0,19.0,4.0,73
+361,2021,Barcelona,H. Abe,0.0,0.0,0.0,73
+362,2021,Barcelona,R. Manaj,0.0,0.0,4.0,73
+363,2021,Barcelona,Lucas de Vega,0.0,0.0,0.0,73
+364,2021,Barcelona,Pedri,9.0,5.0,3.0,73
+365,2021,Barcelona,Nils Mortimer,0.0,0.0,0.0,73
+366,2021,Barcelona,Jordi Escobar,0.0,0.0,0.0,73
+367,2021,Barcelona,Peque Polo,0.0,0.0,0.0,73
+368,2021,Barcelona,Gavi,22.0,8.0,2.0,73
+369,2021,Atletico Madrid,L. Suárez,49.0,26.0,11.0,71
+370,2021,Atletico Madrid,Šime Vrsaljko,4.0,1.0,1.0,71
+371,2021,Atletico Madrid,Y. Carrasco,33.0,12.0,6.0,71
+372,2021,Atletico Madrid,I. Šaponjić,0.0,0.0,0.0,71
+373,2021,Atletico Madrid,Joan Rojas,0.0,0.0,0.0,71
+374,2021,Atletico Madrid,Josep Calavera,0.0,0.0,0.0,71
+375,2021,Atletico Madrid,Manu Lama,0.0,0.0,0.0,71
+376,2021,Atletico Madrid,Óscar Castro,0.0,0.0,0.0,71
+377,2021,Atletico Madrid,Carlos Rojas,0.0,0.0,0.0,71
+378,2021,Atletico Madrid,Álvaro García,0.0,0.0,0.0,71
+379,2021,Atletico Madrid,Sergio Guerrero,0.0,0.0,0.0,71
+380,2021,Atletico Madrid,Fran González,0.0,0.0,0.0,71
+381,2021,Atletico Madrid,Sergio Camus,0.0,0.0,0.0,71
+382,2021,Atletico Madrid,Adrián Corral,0.0,0.0,0.0,71
+383,2021,Atletico Madrid,Alberto Moreno,0.0,0.0,0.0,71
+384,2021,Atletico Madrid,Carlos Martín,0.0,0.0,0.0,71
+385,2021,Atletico Madrid,Ibrahima Cámara,0.0,0.0,0.0,71
+386,2021,Atletico Madrid,Sergio Díez,0.0,0.0,0.0,71
+387,2021,Athletic Club,Íñigo Martínez,19.0,9.0,3.0,55
+388,2021,Athletic Club,Muniain,31.0,21.0,4.0,55
+389,2021,Athletic Club,Álex Berenguer,34.0,16.0,3.0,55
+390,2021,Athletic Club,Balenziaga,5.0,2.0,0.0,55
+391,2021,Athletic Club,Yuri,5.0,3.0,1.0,55
+392,2021,Athletic Club,De Marcos,3.0,3.0,1.0,55
+393,2021,Athletic Club,Unai Núñez,6.0,1.0,0.0,55
+394,2021,Athletic Club,Dani García,8.0,2.0,0.0,55
+395,2021,Athletic Club,Raúl García,33.0,14.0,6.0,55
+396,2021,Athletic Club,Unai López,15.0,7.0,0.0,55
+397,2021,Athletic Club,K. Kodro,0.0,0.0,0.0,55
+398,2021,Athletic Club,I. Williams,69.0,37.0,8.0,55
+399,2021,Athletic Club,Mikel Vesga,11.0,4.0,2.0,55
+400,2021,Athletic Club,Asier Villalibre,14.0,6.0,2.0,55
+401,2021,Athletic Club,Oihan Sancet,24.0,14.0,6.0,55
+402,2021,Athletic Club,Julen Bernaola,0.0,0.0,0.0,55
+403,2021,Athletic Club,Beñat Prados,0.0,0.0,0.0,55
+404,2021,Athletic Club,Nico Williams,20.0,10.0,0.0,55
+405,2021,Athletic Club,Luis Bilbao,0.0,0.0,0.0,55
+406,2021,Valencia,Gabriel Paulista,6.0,3.0,2.0,48
+407,2021,Valencia,José Gayà,17.0,9.0,2.0,48
+408,2021,Valencia,Toni Lato,0.0,0.0,0.0,48
+409,2021,Valencia,Gonçalo Guedes,50.0,28.0,11.0,48
+410,2021,Valencia,Lee Kang-In,26.0,15.0,0.0,48
+411,2021,Valencia,Carlos Soler,36.0,21.0,11.0,48
+412,2021,Valencia,Rubén Sobrino,27.0,10.0,0.0,48
+413,2021,Valencia,Bryan Gil,7.0,2.0,0.0,48
+414,2021,Valencia,M. Gómez,29.0,14.0,5.0,48
+415,2021,Valencia,K. Sibille,0.0,0.0,0.0,48
+416,2021,Valencia,Hélder Costa,6.0,2.0,0.0,48
+417,2021,Valencia,C. Oliva,0.0,0.0,0.0,48
+418,2021,Valencia,E. Mangala,0.0,0.0,0.0,48
+419,2021,Valencia,Pedro Alemañ,0.0,0.0,0.0,48
+420,2021,Valencia,Guillem Molina,0.0,0.0,0.0,48
+421,2021,Valencia,Joseda,0.0,0.0,0.0,48
+422,2021,Valencia,Vicente Esquerdo,0.0,0.0,0.0,48
+423,2021,Valencia,L. Sangaré,0.0,0.0,0.0,48
+424,2021,Valencia,A. Burlamaqui,0.0,0.0,0.0,48
+425,2021,Villarreal,Paco Alcácer,15.0,7.0,1.0,59
+426,2021,Villarreal,Jorge Cuenca,14.0,7.0,0.0,59
+427,2021,Villarreal,J. Foyth,5.0,2.0,1.0,59
+428,2021,Villarreal,Alberto Moreno,14.0,10.0,3.0,59
+429,2021,Villarreal,Raúl Albiol,5.0,1.0,0.0,59
+430,2021,Villarreal,F. Coquelin,4.0,2.0,2.0,59
+431,2021,Villarreal,Dani Parejo,11.0,6.0,2.0,59
+432,2021,Villarreal,A. Mandi,9.0,3.0,1.0,59
+433,2021,Villarreal,Manu Morlanes,4.0,2.0,0.0,59
+434,2021,Villarreal,Alfonso Pedraza,18.0,8.0,4.0,59
+435,2021,Villarreal,Manu Trigueros,31.0,18.0,6.0,59
+436,2021,Villarreal,Gerard Moreno,29.0,17.0,9.0,59
+437,2021,Villarreal,É. Capoue,11.0,5.0,1.0,59
+438,2021,Villarreal,Pau Torres,20.0,9.0,5.0,59
+439,2021,Villarreal,N. Iosifov,0.0,0.0,0.0,59
+440,2021,Villarreal,Álex Baena,0.0,0.0,0.0,59
+441,2021,Villarreal,Yeremy Pino,24.0,15.0,6.0,59
+442,2021,Sevilla,A. Martial,6.0,3.0,0.0,70
+443,2021,Sevilla,J. Koundé,10.0,3.0,2.0,70
+444,2021,Sevilla,J. Gnagnon,0.0,0.0,0.0,70
+445,2021,Sevilla,Javi Vázquez,0.0,0.0,0.0,70
+446,2021,Sevilla,Bryan Gil,0.0,0.0,0.0,70
+447,2021,Sevilla,G. Montiel,5.0,1.0,1.0,70
+448,2021,Sevilla,Diego Carlos,26.0,10.0,3.0,70
+449,2021,Sevilla,K. Rekik,4.0,0.0,0.0,70
+450,2021,Sevilla,Nacho Quintana,0.0,0.0,0.0,70
+451,2021,Sevilla,Kike Ríos,0.0,0.0,0.0,70
+452,2021,Sevilla,José Lara,0.0,0.0,0.0,70
+453,2021,Sevilla,Lluís Aspar,0.0,0.0,0.0,70
+454,2021,Sevilla,Juanlu Sánchez,0.0,0.0,0.0,70
+455,2021,Sevilla,Antonio Zarzana,0.0,0.0,0.0,70
+456,2021,Sevilla,Pablo Pérez,0.0,0.0,0.0,70
+457,2021,Sevilla,Juanmi García,0.0,0.0,0.0,70
+458,2021,Celta Vigo,J. Murillo,4.0,1.0,0.0,46
+459,2021,Celta Vigo,F. Cervi,19.0,10.0,4.0,46
+460,2021,Celta Vigo,Santi Mina,49.0,23.0,7.0,46
+461,2021,Celta Vigo,Denis Suárez,12.0,8.0,4.0,46
+462,2021,Celta Vigo,J. Aidoo,5.0,1.0,0.0,46
+463,2021,Celta Vigo,Nolito,16.0,9.0,2.0,46
+464,2021,Celta Vigo,R. Tapia,10.0,3.0,0.0,46
+465,2021,Celta Vigo,Kevin Vázquez,3.0,1.0,0.0,46
+466,2021,Celta Vigo,Fran Beltrán,13.0,4.0,1.0,46
+467,2021,Celta Vigo,Brais Méndez,36.0,17.0,4.0,46
+468,2021,Celta Vigo,Iago Aspas,65.0,41.0,18.0,46
+469,2021,Celta Vigo,T. Carrique,0.0,0.0,0.0,46
+470,2021,Celta Vigo,Alfon González,0.0,0.0,0.0,46
+471,2021,Celta Vigo,Carlos Domínguez,1.0,0.0,0.0,46
+472,2021,Celta Vigo,Damián Rodríguez,0.0,0.0,0.0,46
+473,2021,Celta Vigo,Hugo Sotelo,0.0,0.0,0.0,46
+474,2021,Celta Vigo,Hugo Álvarez,1.0,0.0,0.0,46
+475,2021,Levante,Hernâni,0.0,0.0,0.0,35
+476,2021,Levante,Soldado,16.0,8.0,3.0,35
+477,2021,Levante,S. Mustafi,3.0,2.0,1.0,35
+478,2021,Levante,Coke,1.0,1.0,1.0,35
+479,2021,Levante,Campaña,9.0,6.0,2.0,35
+480,2021,Levante,José Luis Morales,61.0,36.0,13.0,35
+481,2021,Levante,N. Vukčević,1.0,0.0,0.0,35
+482,2021,Levante,Roger,43.0,20.0,7.0,35
+483,2021,Levante,Gonzalo Melero,16.0,11.0,7.0,35
+484,2021,Levante,Jorge de Frutos,36.0,20.0,4.0,35
+485,2021,Levante,Antonio Leal,0.0,0.0,0.0,35
+486,2021,Levante,José Manuel,0.0,0.0,0.0,35
+487,2021,Levante,Joseda Álvarez,0.0,0.0,0.0,35
+488,2021,Levante,E. Sevikyan,0.0,0.0,0.0,35
+489,2021,Levante,Marc Pubill,4.0,1.0,0.0,35
+490,2021,Levante,Carlos Benítez,0.0,0.0,0.0,35
+491,2021,Levante,Carlos Giménez,0.0,0.0,0.0,35
+492,2021,Espanyol,Manu Morlanes,4.0,2.0,2.0,42
+493,2021,Espanyol,Aleix Vidal,4.0,3.0,2.0,42
+494,2021,Espanyol,Y. Herrera,13.0,2.0,1.0,42
+495,2021,Espanyol,Fran Mérida,3.0,0.0,0.0,42
+496,2021,Espanyol,Adrià Pedrosa,18.0,7.0,1.0,42
+497,2021,Espanyol,David López,5.0,4.0,0.0,42
+498,2021,Espanyol,Dídac Vilá,0.0,0.0,0.0,42
+499,2021,Espanyol,Darder,33.0,17.0,3.0,42
+500,2021,Espanyol,Óscar Melendo,5.0,0.0,0.0,42
+501,2021,Espanyol,Javi Puado,26.0,12.0,4.0,42
+502,2021,Espanyol,Raúl de Tomás,86.0,45.0,17.0,42
+503,2021,Espanyol,Adri Embarba,36.0,16.0,0.0,42
+504,2021,Espanyol,Álvaro García,0.0,0.0,0.0,42
+505,2021,Espanyol,Dani Villahermosa,0.0,0.0,0.0,42
+506,2021,Espanyol,Lluis Recasens,0.0,0.0,0.0,42
+507,2021,Espanyol,Gori,0.0,0.0,0.0,42
+508,2021,Espanyol,Max Svensson,0.0,0.0,0.0,42
+509,2021,Espanyol,Aleix Gorjón,0.0,0.0,0.0,42
+510,2021,Espanyol,L. Koleosho,0.0,0.0,0.0,42
+511,2021,Real Madrid,Éder Militão,26.0,8.0,1.0,86
+512,2021,Real Madrid,D. Alaba,14.0,7.0,2.0,86
+513,2021,Real Madrid,F. Mendy,9.0,5.0,2.0,86
+514,2021,Real Madrid,Dani Carvajal,8.0,2.0,1.0,86
+515,2021,Real Madrid,Nacho,7.0,4.0,3.0,86
+516,2021,Real Madrid,Isco,0.0,0.0,0.0,86
+517,2021,Real Madrid,Dani Ceballos,6.0,4.0,0.0,86
+518,2021,Real Madrid,T. Kroos,35.0,12.0,1.0,86
+519,2021,Real Madrid,L. Modrić,15.0,11.0,2.0,86
+520,2021,Real Madrid,F. Valverde,28.0,9.0,0.0,86
+521,2021,Real Madrid,Lucas Vázquez,13.0,5.0,3.0,86
+522,2021,Real Madrid,G. Bale,13.0,6.0,1.0,86
+523,2021,Real Madrid,Vinícius Júnior,62.0,43.0,17.0,86
+524,2021,Real Madrid,E. Camavinga,10.0,5.0,2.0,86
+525,2021,Real Madrid,E. Hazard,9.0,7.0,0.0,86
+526,2021,Real Madrid,Rodrygo,27.0,15.0,4.0,86
+527,2021,Real Madrid,Miguel Gutiérrez,0.0,0.0,0.0,86
+528,2021,Real Madrid,Sergio Santos,0.0,0.0,0.0,86
+529,2021,Alaves,Iván Martín,0.0,0.0,0.0,31
+530,2021,Alaves,Lucas Pérez,10.0,5.0,0.0,31
+531,2021,Alaves,F. Lejeune,19.0,2.0,0.0,31
+532,2021,Alaves,Joselu,73.0,41.0,14.0,31
+533,2021,Alaves,M. Miazga,6.0,3.0,0.0,31
+534,2021,Alaves,Luis Rioja,34.0,16.0,1.0,31
+535,2021,Alaves,Laguardia,13.0,5.0,3.0,31
+536,2021,Alaves,Ximo Navarro,7.0,3.0,0.0,31
+537,2021,Alaves,Tomás Pina,4.0,1.0,0.0,31
+538,2021,Alaves,G. Escalante,13.0,9.0,5.0,31
+539,2021,Alaves,F. Pellistri,3.0,2.0,0.0,31
+540,2021,Alaves,A. Țîrlea,0.0,0.0,0.0,31
+541,2021,Alaves,A. Mahmoud,0.0,0.0,0.0,31
+542,2021,Alaves,Marc Tenas,0.0,0.0,0.0,31
+543,2021,Alaves,Alan Godoy,0.0,0.0,0.0,31
+544,2021,Alaves,Álex Balboa,0.0,0.0,0.0,31
+545,2021,Alaves,Unai Ropero,0.0,0.0,0.0,31
+546,2021,Alaves,G. Gagua,0.0,0.0,0.0,31
+547,2021,Real Betis,N. Fekir,55.0,32.0,6.0,65
+548,2021,Real Betis,Y. Fékir,0.0,0.0,0.0,65
+549,2021,Real Betis,Marc Bartra,14.0,3.0,1.0,65
+550,2021,Real Betis,Sidnei,0.0,0.0,0.0,65
+551,2021,Real Betis,Edgar González,5.0,1.0,1.0,65
+552,2021,Real Betis,Joaquín,7.0,3.0,0.0,65
+553,2021,Real Betis,William Carvalho,21.0,10.0,2.0,65
+554,2021,Real Betis,G. Pezzella,17.0,6.0,1.0,65
+555,2021,Real Betis,G. Rodríguez,13.0,8.0,1.0,65
+556,2021,Real Betis,Aitor Ruibal,13.0,3.0,0.0,65
+557,2021,Real Betis,Willian José,24.0,12.0,8.0,65
+558,2021,Real Betis,Juanmi,47.0,30.0,16.0,65
+559,2021,Real Betis,Kike Hermoso,2.0,1.0,1.0,65
+560,2021,Real Betis,Raúl García,0.0,0.0,0.0,65
+561,2021,Real Betis,Marc Baró,0.0,0.0,0.0,65
+562,2021,Real Betis,Rodri,13.0,7.0,1.0,65
+563,2021,Real Betis,Calderón,0.0,0.0,0.0,65
+564,2021,Real Betis,Marchena,0.0,0.0,0.0,65
+565,2021,Getafe,Vitolo,0.0,0.0,0.0,39
+566,2021,Getafe,Jorge Cuenca,14.0,7.0,1.0,39
+567,2021,Getafe,Carles Aleñá,31.0,14.0,1.0,39
+568,2021,Getafe,Jaime Mata,8.0,3.0,1.0,39
+569,2021,Getafe,J. Juan Macías,3.0,0.0,0.0,39
+570,2021,Getafe,Gonzalo Villar,2.0,2.0,0.0,39
+571,2021,Getafe,Ignasi Miquel,0.0,0.0,0.0,39
+572,2021,Getafe,Miguel Rubio,0.0,0.0,0.0,39
+573,2021,Getafe,D. Suárez,13.0,4.0,0.0,39
+574,2021,Getafe,Óscar Rodríguez,19.0,8.0,0.0,39
+575,2021,Getafe,Borja Mayoral,10.0,7.0,6.0,39
+576,2021,Getafe,Totti,0.0,0.0,0.0,39
+577,2021,Getafe,Diego López,0.0,0.0,0.0,39
+578,2021,Getafe,Santi García,0.0,0.0,0.0,39
+579,2021,Getafe,Álvaro López,0.0,0.0,0.0,39
+580,2021,Getafe,Koffi,1.0,0.0,0.0,39
+581,2021,Getafe,J. Patrick,0.0,0.0,0.0,39
+582,2021,Getafe,Mamor Niang,0.0,0.0,0.0,39
+583,2021,Getafe,Chinchu,0.0,0.0,0.0,39
+584,2021,Getafe,Pablo Montero,0.0,0.0,0.0,39
+585,2021,Real Sociedad,Rafinha,11.0,2.0,1.0,62
+586,2021,Real Sociedad,David Silva,16.0,6.0,2.0,62
+587,2021,Real Sociedad,Nacho Monreal,0.0,0.0,0.0,62
+588,2021,Real Sociedad,A. Januzaj,25.0,15.0,3.0,62
+589,2021,Real Sociedad,A. Sørloth,26.0,13.0,4.0,62
+590,2021,Real Sociedad,Diego Rico,7.0,1.0,0.0,62
+591,2021,Real Sociedad,Carlos Fernández,0.0,0.0,0.0,62
+592,2021,Real Sociedad,Andoni Gorosabel,5.0,1.0,0.0,62
+593,2021,Real Sociedad,Kévin Rodrigues,0.0,0.0,0.0,62
+594,2021,Real Sociedad,Álex Sola,1.0,0.0,0.0,62
+595,2021,Real Sociedad,Joseba Zaldúa,5.0,3.0,0.0,62
+596,2021,Real Sociedad,Guevara,2.0,0.0,0.0,62
+597,2021,Real Sociedad,Barrenetxea,7.0,3.0,1.0,62
+598,2021,Real Sociedad,Martín Merquelanz,0.0,0.0,0.0,62
+599,2021,Real Sociedad,Mikel Oyarzabal,29.0,18.0,9.0,62
+600,2021,Real Sociedad,Portu,16.0,10.0,1.0,62
+601,2021,Real Sociedad,Robert Navarro,7.0,3.0,0.0,62
+602,2021,Real Sociedad,Jon Guridi,2.0,1.0,1.0,62
+603,2021,Real Sociedad,Cristo,1.0,0.0,0.0,62
+604,2021,Real Sociedad,Beñat Turrientes,5.0,2.0,0.0,62
+605,2021,Granada CF,M. Uzuni,11.0,2.0,1.0,38
+606,2021,Granada CF,N. Petrović,5.0,2.0,0.0,38
+607,2021,Granada CF,Víctor Díaz,10.0,2.0,1.0,38
+608,2021,Granada CF,Carlos Neva,5.0,1.0,0.0,38
+609,2021,Granada CF,R. Azeez,0.0,0.0,0.0,38
+610,2021,Granada CF,Ángel Montoro,16.0,5.0,1.0,38
+611,2021,Granada CF,Antonio Puertas,24.0,15.0,6.0,38
+612,2021,Granada CF,L. Suárez,60.0,25.0,8.0,38
+613,2021,Granada CF,Jorge Molina,38.0,22.0,10.0,38
+614,2021,Granada CF,Rochina,10.0,5.0,1.0,38
+615,2021,Granada CF,M. Arezo,4.0,3.0,0.0,38
+616,2021,Granada CF,Antoñín Cortés,0.0,0.0,0.0,38
+617,2021,Granada CF,Pepe Sánchez,0.0,0.0,0.0,38
+618,2021,Granada CF,Isma Ruiz,3.0,1.0,0.0,38
+619,2021,Granada CF,Raúl Torrente,2.0,0.0,0.0,38
+620,2021,Granada CF,Miguel Brau,0.0,0.0,0.0,38
+621,2021,Cadiz,Lucas Pérez,10.0,5.0,3.0,39
+622,2021,Cadiz,I. Šaponjić,0.0,0.0,0.0,39
+623,2021,Cadiz,S. Erimuya,0.0,0.0,0.0,39
+624,2021,Cadiz,M. Mauro,0.0,0.0,0.0,39
+625,2021,Cadiz,Jon Garrido,0.0,0.0,0.0,39
+626,2021,Cadiz,Javi Navarro,0.0,0.0,0.0,39
+627,2021,Cadiz,Gaspar Panadero Zamora,0.0,0.0,0.0,39
+628,2021,Cadiz,Álvaro Giménez,0.0,0.0,0.0,39
+629,2021,Cadiz,Juan Cala,5.0,0.0,0.0,39
+630,2021,Cadiz,Nano,0.0,0.0,0.0,39
+631,2021,Cadiz,Caye Quintana,0.0,0.0,0.0,39
+632,2021,Cadiz,Martín Calderón,1.0,0.0,0.0,39
+633,2021,Cadiz,Marc Baró,0.0,0.0,0.0,39
+634,2021,Cadiz,M. Diarra,0.0,0.0,0.0,39
+635,2021,Cadiz,Kike Carrasco,0.0,0.0,0.0,39
+636,2021,Cadiz,Javi Martín,0.0,0.0,0.0,39
+637,2021,Cadiz,Álvaro Bastida,0.0,0.0,0.0,39
+638,2021,Osasuna,Adrián López,0.0,0.0,0.0,47
+639,2021,Osasuna,F. Roncaglia,0.0,0.0,0.0,47
+640,2021,Osasuna,David García,26.0,4.0,4.0,47
+641,2021,Osasuna,Oier,8.0,1.0,1.0,47
+642,2021,Osasuna,Iñigo Pérez,2.0,1.0,1.0,47
+643,2021,Osasuna,Roberto Torres,11.0,6.0,2.0,47
+644,2021,Osasuna,Barbero,0.0,0.0,0.0,47
+645,2021,Osasuna,Raúl Navas,0.0,0.0,0.0,47
+646,2021,Osasuna,Jony,0.0,0.0,0.0,47
+647,2021,Osasuna,Jonás Ramalho,1.0,0.0,0.0,47
+648,2021,Osasuna,Manu Sánchez,4.0,2.0,1.0,47
+649,2021,Osasuna,Gorka Zabarte Moreno,0.0,0.0,0.0,47
+650,2021,Osasuna,Asier Córdoba,0.0,0.0,0.0,47
+651,2021,Osasuna,Pau Martínez,0.0,0.0,0.0,47
+652,2021,Osasuna,Unai Dufur,1.0,0.0,0.0,47
+653,2021,Rayo Vallecano,R. Falcao,28.0,15.0,6.0,42
+654,2021,Rayo Vallecano,Fran García,13.0,8.0,1.0,42
+655,2021,Rayo Vallecano,L. Ulloa,0.0,0.0,0.0,42
+656,2021,Rayo Vallecano,P. Ciss,13.0,5.0,2.0,42
+657,2021,Rayo Vallecano,Óscar Valentín,8.0,2.0,0.0,42
+658,2021,Rayo Vallecano,Unai López,15.0,7.0,0.0,42
+659,2021,Rayo Vallecano,Kévin Rodrigues,2.0,0.0,0.0,42
+660,2021,Rayo Vallecano,Sergi Guardiola,36.0,18.0,8.0,42
+661,2021,Rayo Vallecano,Álvaro García,56.0,24.0,7.0,42
+662,2021,Rayo Vallecano,Manu Navarro,0.0,0.0,0.0,42
+663,2021,Rayo Vallecano,Mario Suárez,6.0,3.0,0.0,42
+664,2021,Rayo Vallecano,Bebé,31.0,8.0,1.0,42
+665,2021,Rayo Vallecano,Sergio Moreno,0.0,0.0,0.0,42
+666,2021,Rayo Vallecano,R. Nteka,27.0,8.0,3.0,42
+667,2021,Rayo Vallecano,Iker Recio,0.0,0.0,0.0,42
+668,2021,Rayo Vallecano,Álvaro Aguirre,0.0,0.0,0.0,42
+669,2021,Rayo Vallecano,Jorge Moreno,0.0,0.0,0.0,42
+670,2021,Rayo Vallecano,Sergio Gimeno,0.0,0.0,0.0,42
+671,2021,Rayo Vallecano,Vere,1.0,1.0,0.0,42
+672,2021,Elche,Omar Mascarell,7.0,1.0,0.0,42
+673,2021,Elche,L. Boyé,35.0,16.0,7.0,42
+674,2021,Elche,J. Pastore,5.0,2.0,0.0,42
+675,2021,Elche,Barragán,1.0,0.0,0.0,42
+676,2021,Elche,Lucas Pérez,10.0,5.0,2.0,42
+677,2021,Elche,Gerard Gumbau,12.0,3.0,0.0,42
+678,2021,Elche,J. Mojica,12.0,3.0,2.0,42
+679,2021,Elche,Kike Pérez,8.0,5.0,2.0,42
+680,2021,Elche,César Moreno,0.0,0.0,0.0,42
+681,2021,Elche,Sergio Bono,0.0,0.0,0.0,42
+682,2021,Elche,Carles Soler,0.0,0.0,0.0,42
+683,2021,Elche,Diego Bri,0.0,0.0,0.0,42
+684,2021,Elche,Cheikh Diamanka,0.0,0.0,0.0,42
+685,2021,Elche,John Chetauya,0.0,0.0,0.0,42
+686,2021,Elche,José Friaza,0.0,0.0,0.0,42
+687,2021,Elche,Lilian de Palmas,0.0,0.0,0.0,42
+688,2021,Mallorca,Lee Kang-In,26.0,15.0,1.0,39
+689,2021,Mallorca,B. Cufré,0.0,0.0,0.0,39
+690,2021,Mallorca,Raíllo,6.0,4.0,2.0,39
+691,2021,Mallorca,M. Valjent,3.0,1.0,0.0,39
+692,2021,Mallorca,I. Baba,17.0,8.0,1.0,39
+693,2021,Mallorca,Dani Rodríguez,24.0,10.0,3.0,39
+694,2021,Mallorca,Salva Sevilla,18.0,8.0,5.0,39
+695,2021,Mallorca,Abdón Prats,14.0,6.0,3.0,39
+696,2021,Mallorca,Álex Alegría,0.0,0.0,0.0,39
+697,2021,Mallorca,V. Muriqi,37.0,18.0,5.0,39
+698,2021,Mallorca,Antonio Sánchez,12.0,4.0,1.0,39
+699,2021,Mallorca,T. Giaquinto,0.0,0.0,0.0,39
+700,2021,Mallorca,Pablo Gálvez,0.0,0.0,0.0,39
+701,2021,Mallorca,Miguel Martín,0.0,0.0,0.0,39
+702,2021,Mallorca,Marc Carmona,0.0,0.0,0.0,39
+703,2021,Mallorca,Javi Llabrés,2.0,2.0,0.0,39
+704,2021,Mallorca,Marcos Fernández,0.0,0.0,0.0,39
+705,2022,Barcelona,Jordi Alba,8.0,4.0,2.0,88
+706,2022,Barcelona,Guillem Jaime,0.0,0.0,0.0,88
+707,2022,Barcelona,Piqué,3.0,0.0,0.0,88
+708,2022,Barcelona,Sergio Busquets,5.0,2.0,0.0,88
+709,2022,Barcelona,Philippe Coutinho,0.0,0.0,0.0,88
+710,2022,Barcelona,Dani Alves,0.0,0.0,0.0,88
+711,2022,Barcelona,M. Pjanić,0.0,0.0,0.0,88
+712,2022,Barcelona,Raphinha,58.0,25.0,7.0,88
+713,2022,Barcelona,R. Manaj,0.0,0.0,0.0,88
+714,2022,Barcelona,Antonio Aranda,0.0,0.0,0.0,88
+715,2022,Barcelona,C. Riad,0.0,0.0,0.0,88
+716,2022,Barcelona,Ángel Alarcón,1.0,1.0,0.0,88
+717,2022,Barcelona,Fabio Blanco,0.0,0.0,0.0,88
+718,2022,Barcelona,Dani Rodríguez,0.0,0.0,0.0,88
+719,2022,Barcelona,Ángel Alarcón,0.0,0.0,0.0,88
+720,2022,Barcelona,Lamine Yamal,1.0,1.0,0.0,88
+721,2022,Barcelona,Héctor Fort,0.0,0.0,0.0,88
+722,2022,Barcelona,Marc Guiu,0.0,0.0,0.0,88
+723,2022,Barcelona,Pau Prim,0.0,0.0,0.0,88
+724,2022,Atletico Madrid,Šime Vrsaljko,0.0,0.0,0.0,77
+725,2022,Atletico Madrid,Y. Carrasco,41.0,22.0,7.0,77
+726,2022,Atletico Madrid,M. Doherty,0.0,0.0,0.0,77
+727,2022,Atletico Madrid,I. Šaponjić,0.0,0.0,0.0,77
+728,2022,Atletico Madrid,Joan Rojas,0.0,0.0,0.0,77
+729,2022,Atletico Madrid,Manu Lama,0.0,0.0,0.0,77
+730,2022,Atletico Madrid,Fran González,0.0,0.0,0.0,77
+731,2022,Atletico Madrid,Sergio Camus,0.0,0.0,0.0,77
+732,2022,Atletico Madrid,Diego Bri,0.0,0.0,0.0,77
+733,2022,Atletico Madrid,Adrián Corral,0.0,0.0,0.0,77
+734,2022,Atletico Madrid,J. Perea,0.0,0.0,0.0,77
+735,2022,Atletico Madrid,Ethyan González,0.0,0.0,0.0,77
+736,2022,Atletico Madrid,Santi Miguélez,0.0,0.0,0.0,77
+737,2022,Atletico Madrid,Alberto Moreno,0.0,0.0,0.0,77
+738,2022,Atletico Madrid,Carlos Martín,1.0,1.0,0.0,77
+739,2022,Atletico Madrid,Ibrahima Cámara,0.0,0.0,0.0,77
+740,2022,Atletico Madrid,Sergio Díez,0.0,0.0,0.0,77
+741,2022,Atletico Madrid,J. Ginzo,0.0,0.0,0.0,77
+742,2022,Athletic Club,Ander Herrera,0.0,0.0,0.0,51
+743,2022,Athletic Club,Íñigo Martínez,5.0,2.0,1.0,51
+744,2022,Athletic Club,Muniain,20.0,7.0,0.0,51
+745,2022,Athletic Club,Álex Berenguer,44.0,19.0,4.0,51
+746,2022,Athletic Club,Balenziaga,0.0,0.0,0.0,51
+747,2022,Athletic Club,De Marcos,3.0,2.0,1.0,51
+748,2022,Athletic Club,Dani García,8.0,0.0,0.0,51
+749,2022,Athletic Club,Raúl García,32.0,14.0,2.0,51
+750,2022,Athletic Club,Gorka Guruzeta,36.0,19.0,6.0,51
+751,2022,Athletic Club,I. Williams,66.0,35.0,10.0,51
+752,2022,Athletic Club,Mikel Vesga,21.0,6.0,3.0,51
+753,2022,Athletic Club,Asier Villalibre,4.0,1.0,0.0,51
+754,2022,Athletic Club,Oihan Sancet,47.0,22.0,10.0,51
+755,2022,Athletic Club,Nico Williams,44.0,20.0,6.0,51
+756,2022,Athletic Club,Malcom Adu,1.0,0.0,0.0,51
+757,2022,Athletic Club,Luis Bilbao,0.0,0.0,0.0,51
+758,2022,Athletic Club,Unai Gómez,0.0,0.0,0.0,51
+759,2022,Athletic Club,Junior Bita,0.0,0.0,0.0,51
+760,2022,Valencia,Gabriel Paulista,11.0,2.0,1.0,42
+761,2022,Valencia,José Gayà,19.0,9.0,1.0,42
+762,2022,Valencia,Toni Lato,6.0,1.0,1.0,42
+763,2022,Valencia,Gonçalo Guedes,0.0,0.0,2.0,42
+764,2022,Valencia,Carlos Soler,3.0,2.0,1.0,42
+765,2022,Valencia,Bryan Gil,0.0,0.0,0.0,42
+766,2022,Valencia,M. Gómez,1.0,0.0,0.0,42
+767,2022,Valencia,O. Alderete,0.0,0.0,0.0,42
+768,2022,Valencia,Hélder Costa,0.0,0.0,0.0,42
+769,2022,Valencia,Pedro Alemañ,0.0,0.0,0.0,42
+770,2022,Valencia,I. Moriba,15.0,5.0,0.0,42
+771,2022,Valencia,Joseda,0.0,0.0,0.0,42
+772,2022,Valencia,Vicente Esquerdo,0.0,0.0,0.0,42
+773,2022,Valencia,Tiago Ribeiro,0.0,0.0,0.0,42
+774,2022,Valencia,Alberto Marí,2.0,1.0,1.0,42
+775,2022,Valencia,L. Sangaré,0.0,0.0,0.0,42
+776,2022,Valencia,A. Burlamaqui,0.0,0.0,0.0,42
+777,2022,Valencia,Mario Domínguez,0.0,0.0,0.0,42
+778,2022,Valencia,Yellu Santiago,0.0,0.0,0.0,42
+779,2022,Villarreal,Paco Alcácer,0.0,0.0,0.0,64
+780,2022,Villarreal,F. Coquelin,3.0,1.0,1.0,64
+781,2022,Villarreal,Dani Parejo,23.0,11.0,3.0,64
+782,2022,Villarreal,Manu Morlanes,4.0,2.0,0.0,64
+783,2022,Villarreal,Alfonso Pedraza,18.0,10.0,0.0,64
+784,2022,Villarreal,Manu Trigueros,6.0,2.0,0.0,64
+785,2022,Villarreal,Gerard Moreno,36.0,22.0,7.0,64
+786,2022,Villarreal,É. Capoue,23.0,12.0,3.0,64
+787,2022,Villarreal,Pau Torres,9.0,5.0,1.0,64
+788,2022,Villarreal,José Luis Morales,33.0,21.0,7.0,64
+789,2022,Villarreal,N. Iosifov,0.0,0.0,0.0,64
+790,2022,Villarreal,Álex Baena,44.0,23.0,6.0,64
+791,2022,Villarreal,Diego Collado,0.0,0.0,0.0,64
+792,2022,Villarreal,Yeremy Pino,38.0,19.0,4.0,64
+793,2022,Villarreal,Ramon Terrats,3.0,0.0,1.0,64
+794,2022,Villarreal,Jorge Pascual,1.0,1.0,1.0,64
+795,2022,Villarreal,M. Fall,0.0,0.0,0.0,64
+796,2022,Villarreal,L. Quintero,0.0,0.0,0.0,64
+797,2022,Sevilla,É. Lamela,34.0,23.0,6.0,49
+798,2022,Sevilla,Alex Telles,7.0,1.0,0.0,49
+799,2022,Sevilla,Óliver Torres,19.0,8.0,3.0,49
+800,2022,Sevilla,J. Koundé,0.0,0.0,0.0,49
+801,2022,Sevilla,Suso,21.0,10.0,2.0,49
+802,2022,Sevilla,L. Ocampos,0.0,0.0,0.0,49
+803,2022,Sevilla,Bryan Gil,9.0,4.0,2.0,49
+804,2022,Sevilla,A. Januzaj,0.0,0.0,0.0,49
+805,2022,Sevilla,K. Rekik,7.0,1.0,1.0,49
+806,2022,Sevilla,Rafa Mir,41.0,16.0,6.0,49
+807,2022,Sevilla,Joan Jordán,9.0,3.0,0.0,49
+808,2022,Sevilla,Y. En-Nesyri,48.0,22.0,8.0,49
+809,2022,Sevilla,Nacho Quintana,0.0,0.0,0.0,49
+810,2022,Sevilla,Xavi Sintes,0.0,0.0,0.0,49
+811,2022,Sevilla,Juanlu Sánchez,0.0,0.0,0.0,49
+812,2022,Sevilla,Antonio Zarzana,0.0,0.0,0.0,49
+813,2022,Sevilla,Pablo Pérez,0.0,0.0,0.0,49
+814,2022,Sevilla,Lulo Dasilva,0.0,0.0,0.0,49
+815,2022,Sevilla,Manu Bueno,1.0,1.0,0.0,49
+816,2022,Celta Vigo,F. Cervi,15.0,6.0,0.0,43
+817,2022,Celta Vigo,H. Seferović,10.0,7.0,3.0,43
+818,2022,Celta Vigo,J. Aidoo,11.0,3.0,3.0,43
+819,2022,Celta Vigo,J. Strand Larsen,32.0,15.0,4.0,43
+820,2022,Celta Vigo,R. Tapia,10.0,3.0,0.0,43
+821,2022,Celta Vigo,L. de la Torre,10.0,3.0,0.0,43
+822,2022,Celta Vigo,Kevin Vázquez,0.0,0.0,0.0,43
+823,2022,Celta Vigo,Fran Beltrán,12.0,2.0,0.0,43
+824,2022,Celta Vigo,Iago Aspas,65.0,33.0,12.0,43
+825,2022,Celta Vigo,Carles Pérez,29.0,20.0,3.0,43
+826,2022,Celta Vigo,Javi Domínguez,0.0,0.0,0.0,43
+827,2022,Celta Vigo,Miguel Rodríguez,2.0,1.0,1.0,43
+828,2022,Celta Vigo,W. Swedberg,0.0,0.0,0.0,43
+829,2022,Celta Vigo,Carlos Domínguez,1.0,1.0,0.0,43
+830,2022,Celta Vigo,Fran López,0.0,0.0,0.0,43
+831,2022,Celta Vigo,Hugo Sotelo,1.0,0.0,0.0,43
+832,2022,Celta Vigo,Pablo Durán,0.0,0.0,0.0,43
+833,2022,Celta Vigo,Hugo Álvarez,0.0,0.0,0.0,43
+834,2022,Celta Vigo,Martín Conde,0.0,0.0,0.0,43
+835,2022,Espanyol,Denis Suárez,3.0,3.0,0.0,37
+836,2022,Espanyol,Aleix Vidal,3.0,2.0,0.0,37
+837,2022,Espanyol,M. Braithwaite,41.0,26.0,10.0,37
+838,2022,Espanyol,C. Montes,10.0,6.0,3.0,37
+839,2022,Espanyol,Joselu,69.0,38.0,16.0,37
+840,2022,Espanyol,Adrià Pedrosa,1.0,0.0,0.0,37
+841,2022,Espanyol,Dídac Vilá Rosselló,0.0,0.0,0.0,37
+842,2022,Espanyol,Darder,26.0,13.0,6.0,37
+843,2022,Espanyol,Javi Puado,50.0,23.0,7.0,37
+844,2022,Espanyol,Raúl de Tomás,33.0,16.0,0.0,37
+845,2022,Espanyol,Adri Embarba,38.0,20.0,0.0,37
+846,2022,Espanyol,Dani Gómez,0.0,0.0,0.0,37
+847,2022,Espanyol,N. Zoubdi,0.0,0.0,0.0,37
+848,2022,Espanyol,Dani Villahermosa,0.0,0.0,0.0,37
+849,2022,Espanyol,Roger Martínez,1.0,0.0,0.0,37
+850,2022,Espanyol,Kenneth Soler,0.0,0.0,0.0,37
+851,2022,Espanyol,Simo,0.0,0.0,0.0,37
+852,2022,Espanyol,L. Koleosho,1.0,1.0,1.0,37
+853,2022,Real Madrid,Isco,0.0,0.0,0.0,78
+854,2022,Real Madrid,Dani Ceballos,11.0,5.0,0.0,78
+855,2022,Real Madrid,T. Kroos,24.0,11.0,2.0,78
+856,2022,Real Madrid,L. Modrić,17.0,6.0,4.0,78
+857,2022,Real Madrid,F. Valverde,51.0,21.0,7.0,78
+858,2022,Real Madrid,Lucas Vázquez,12.0,7.0,4.0,78
+859,2022,Real Madrid,G. Bale,0.0,0.0,0.0,78
+860,2022,Real Madrid,Vinícius Júnior,56.0,36.0,10.0,78
+861,2022,Real Madrid,A. Tchouaméni,19.0,6.0,0.0,78
+862,2022,Real Madrid,E. Camavinga,11.0,3.0,0.0,78
+863,2022,Real Madrid,E. Hazard,2.0,1.0,0.0,78
+864,2022,Real Madrid,Rodrygo,72.0,32.0,9.0,78
+865,2022,Real Madrid,Miguel Gutiérrez,12.0,4.0,0.0,78
+866,2022,Real Madrid,Sergio Santos,0.0,0.0,0.0,78
+867,2022,Real Madrid,Marvel,0.0,0.0,0.0,78
+868,2022,Real Madrid,Á. Rodríguez,2.0,1.0,1.0,78
+869,2022,Real Madrid,Mario Martín,0.0,0.0,0.0,78
+870,2022,Real Madrid,N. Paz,0.0,0.0,0.0,78
+871,2022,Real Betis,N. Fekir,18.0,8.0,2.0,60
+872,2022,Real Betis,Y. Fékir,0.0,0.0,0.0,60
+873,2022,Real Betis,Edgar González,7.0,3.0,0.0,60
+874,2022,Real Betis,Joaquín,5.0,3.0,0.0,60
+875,2022,Real Betis,Ayoze Pérez,24.0,14.0,3.0,60
+876,2022,Real Betis,Willian José,17.0,7.0,2.0,60
+877,2022,Real Betis,Juanmi,15.0,8.0,4.0,60
+878,2022,Real Betis,Kike Hermoso,0.0,0.0,0.0,60
+879,2022,Real Betis,Raúl García,0.0,0.0,0.0,60
+880,2022,Real Betis,José Lara,0.0,0.0,0.0,60
+881,2022,Real Betis,Marc Baró,0.0,0.0,0.0,60
+882,2022,Real Betis,Rodri,11.0,6.0,2.0,60
+883,2022,Real Betis,Marchena,0.0,0.0,0.0,60
+884,2022,Real Betis,Enrique Fernández,0.0,0.0,0.0,60
+885,2022,Real Betis,Marcos Fernández,0.0,0.0,0.0,60
+886,2022,Real Betis,Dani Pérez,1.0,1.0,0.0,60
+887,2022,Getafe,Carles Aleñá,23.0,10.0,2.0,42
+888,2022,Getafe,Jaime Mata,12.0,5.0,1.0,42
+889,2022,Getafe,N. Maksimović,16.0,7.0,0.0,42
+890,2022,Getafe,Gonzalo Villar,1.0,1.0,0.0,42
+891,2022,Getafe,Luis Milla,6.0,1.0,0.0,42
+892,2022,Getafe,D. Suárez,4.0,1.0,1.0,42
+893,2022,Getafe,M. Arambarri,4.0,0.0,0.0,42
+894,2022,Getafe,Borja Mayoral,38.0,19.0,8.0,42
+895,2022,Getafe,Portu,10.0,5.0,0.0,42
+896,2022,Getafe,Juanmi Latasa,11.0,4.0,1.0,42
+897,2022,Getafe,Santi García,0.0,0.0,0.0,42
+898,2022,Getafe,Álex Revuelta,0.0,0.0,0.0,42
+899,2022,Getafe,Koffi,0.0,0.0,0.0,42
+900,2022,Getafe,Álex Rodríguez,0.0,0.0,0.0,42
+901,2022,Getafe,J. Patrick,0.0,0.0,0.0,42
+902,2022,Getafe,Gorka Rivera,0.0,0.0,0.0,42
+903,2022,Getafe,Moi Parra,0.0,0.0,0.0,42
+904,2022,Getafe,Pablo Ramírez,0.0,0.0,0.0,42
+905,2022,Girona,Samu Sáiz,4.0,3.0,2.0,49
+906,2022,Girona,Víctor Sánchez Mata,0.0,0.0,0.0,49
+907,2022,Girona,David Juncà,0.0,0.0,0.0,49
+908,2022,Girona,Álex Gallar,0.0,0.0,0.0,49
+909,2022,Girona,Rodrigo Riquelme,48.0,22.0,4.0,49
+910,2022,Girona,Álex Sala,0.0,0.0,0.0,49
+911,2022,Girona,Álex Baena,0.0,0.0,0.0,49
+912,2022,Girona,Pau Victor,0.0,0.0,0.0,49
+913,2022,Girona,Arnau Martínez,12.0,3.0,3.0,49
+914,2022,Girona,Eric Monjonell,0.0,0.0,0.0,49
+915,2022,Girona,Suleiman Camara,0.0,0.0,0.0,49
+916,2022,Girona,Alejandro Pérez,0.0,0.0,0.0,49
+917,2022,Girona,D. Camara,0.0,0.0,0.0,49
+918,2022,Girona,Biel Farrés,0.0,0.0,0.0,49
+919,2022,Girona,Joel Roca,4.0,2.0,0.0,49
+920,2022,Girona,Unai Hernández,0.0,0.0,0.0,49
+921,2022,Girona,Unai Hernandez,0.0,0.0,0.0,49
+922,2022,Real Sociedad,David Silva,21.0,13.0,2.0,71
+923,2022,Real Sociedad,A. Sørloth,53.0,28.0,12.0,71
+924,2022,Real Sociedad,Diego Rico,8.0,3.0,0.0,71
+925,2022,Real Sociedad,U. Sadiq,6.0,3.0,1.0,71
+926,2022,Real Sociedad,T. Kubo,57.0,30.0,9.0,71
+927,2022,Real Sociedad,Carlos Fernández,19.0,5.0,1.0,71
+928,2022,Real Sociedad,Andoni Gorosabel,5.0,1.0,0.0,71
+929,2022,Real Sociedad,Álex Sola,4.0,1.0,0.0,71
+930,2022,Real Sociedad,Joseba Zaldúa,0.0,0.0,0.0,71
+931,2022,Real Sociedad,Guevara,1.0,0.0,0.0,71
+932,2022,Real Sociedad,Barrenetxea,17.0,12.0,3.0,71
+933,2022,Real Sociedad,Mikel Oyarzabal,15.0,11.0,4.0,71
+934,2022,Real Sociedad,Brais Méndez,42.0,22.0,8.0,71
+935,2022,Real Sociedad,Robert Navarro,7.0,5.0,0.0,71
+936,2022,Real Sociedad,Jon Guridi,0.0,0.0,0.0,71
+937,2022,Real Sociedad,Jon Ander Olasagasti,3.0,1.0,0.0,71
+938,2022,Real Sociedad,Beñat Turrientes,0.0,0.0,0.0,71
+939,2022,Real Sociedad,Jon Magunazelaia,1.0,1.0,0.0,71
+940,2022,Real Sociedad,Pablo Marín,9.0,4.0,0.0,71
+941,2022,Valladolid,Z. Feddal,1.0,0.0,0.0,40
+942,2022,Valladolid,C. Larin,42.0,19.0,8.0,40
+943,2022,Valladolid,D. Machís,13.0,7.0,0.0,40
+944,2022,Valladolid,S. Amallah,3.0,2.0,2.0,40
+945,2022,Valladolid,G. Plata,26.0,13.0,1.0,40
+946,2022,Valladolid,Víctor García,0.0,0.0,0.0,40
+947,2022,Valladolid,Hugo Vallejo,0.0,0.0,0.0,40
+948,2022,Valladolid,J. Narváez,3.0,0.0,0.0,40
+949,2022,Valladolid,Toni Villa,14.0,3.0,0.0,40
+950,2022,Valladolid,Sergi Guardiola,23.0,14.0,0.0,40
+951,2022,Valladolid,M. Hongla,1.0,0.0,0.0,40
+952,2022,Valladolid,S. Weissman,16.0,7.0,1.0,40
+953,2022,Valladolid,Kike Pérez,35.0,10.0,1.0,40
+954,2022,Valladolid,Diego Moreno,0.0,0.0,0.0,40
+955,2022,Valladolid,Mario Maroto,0.0,0.0,0.0,40
+956,2022,Valladolid,B. Akinsola,0.0,0.0,0.0,40
+957,2022,Valladolid,Roberto Arroyo,0.0,0.0,0.0,40
+958,2022,Valladolid,Víctor Rofino,0.0,0.0,0.0,40
+959,2022,Almeria,Chumi,2.0,1.0,1.0,41
+960,2022,Almeria,Álex Centelles,5.0,3.0,1.0,41
+961,2022,Almeria,Daniel Filipe Martins Carriço,0.0,0.0,0.0,41
+962,2022,Almeria,L. Robertone,26.0,7.0,2.0,41
+963,2022,Almeria,Léo Baptistão,29.0,16.0,5.0,41
+964,2022,Almeria,Álex Pozo,6.0,2.0,0.0,41
+965,2022,Almeria,Íñigo Eguaras,7.0,3.0,1.0,41
+966,2022,Almeria,L. Suárez,29.0,13.0,4.0,41
+967,2022,Almeria,Adri Embarba,38.0,20.0,4.0,41
+968,2022,Almeria,Gonzalo Melero,18.0,11.0,4.0,41
+969,2022,Almeria,L. Ramazani,31.0,18.0,3.0,41
+970,2022,Almeria,Carlos Rojas,0.0,0.0,0.0,41
+971,2022,Almeria,Samú Costa,16.0,7.0,1.0,41
+972,2022,Almeria,M. Šviderský,0.0,0.0,0.0,41
+973,2022,Almeria,Gui,0.0,0.0,0.0,41
+974,2022,Almeria,Marezi,0.0,0.0,0.0,41
+975,2022,Almeria,Marcos Peña,0.0,0.0,0.0,41
+976,2022,Cadiz,S. Arzamendia,4.0,2.0,0.0,42
+977,2022,Cadiz,Lucas Pérez,13.0,6.0,3.0,42
+978,2022,Cadiz,M. Mauro,0.0,0.0,0.0,42
+979,2022,Cadiz,Jon Garrido,0.0,0.0,0.0,42
+980,2022,Cadiz,Álvaro Giménez,0.0,0.0,1.0,42
+981,2022,Cadiz,David Mayoral,0.0,0.0,0.0,42
+982,2022,Cadiz,Juan Cala,1.0,0.0,0.0,42
+983,2022,Cadiz,Nano,0.0,0.0,0.0,42
+984,2022,Cadiz,L. Cvetićanin,0.0,0.0,0.0,42
+985,2022,Cadiz,Carlos García-Die,0.0,0.0,0.0,42
+986,2022,Cadiz,Martín Calderón,0.0,0.0,0.0,42
+987,2022,Cadiz,Genar Fornés,0.0,0.0,0.0,42
+988,2022,Cadiz,M. Diarra,1.0,0.0,0.0,42
+989,2022,Cadiz,L. Spatz,0.0,0.0,0.0,42
+990,2022,Cadiz,F. Mwepu,0.0,0.0,0.0,42
+991,2022,Cadiz,Álvaro Bastida,0.0,0.0,0.0,42
+992,2022,Cadiz,Curro Muñoz,0.0,0.0,0.0,42
+993,2022,Cadiz,Kikín,0.0,0.0,0.0,42
+994,2022,Cadiz,José de la Rosa,0.0,0.0,0.0,42
+995,2022,Osasuna,Lucas Torró,19.0,4.0,1.0,53
+996,2022,Osasuna,David García,12.0,3.0,2.0,53
+997,2022,Osasuna,Aridane Hernández,4.0,1.0,0.0,53
+998,2022,Osasuna,Nacho Vidal,8.0,2.0,0.0,53
+999,2022,Osasuna,Rubén García,17.0,4.0,2.0,53
+1000,2022,Osasuna,Moncayola,23.0,8.0,1.0,53
+1001,2022,Osasuna,Iñigo Pérez,0.0,0.0,0.0,53
+1002,2022,Osasuna,Roberto Torres,0.0,0.0,0.0,53
+1003,2022,Osasuna,Kike Barja,14.0,6.0,1.0,53
+1004,2022,Osasuna,Barbero,0.0,0.0,0.0,53
+1005,2022,Osasuna,A. Budimir,48.0,21.0,8.0,53
+1006,2022,Osasuna,Kike García,34.0,12.0,2.0,53
+1007,2022,Osasuna,Moi Gómez,15.0,9.0,3.0,53
+1008,2022,Osasuna,Manu Sánchez,9.0,3.0,0.0,53
+1009,2022,Osasuna,Aimar Oroz,19.0,8.0,3.0,53
+1010,2022,Osasuna,Pablo Ibáñez,14.0,6.0,0.0,53
+1011,2022,Osasuna,Jorge Herrando,0.0,0.0,0.0,53
+1012,2022,Osasuna,Iker Muñoz,2.0,1.0,0.0,53
+1013,2022,Rayo Vallecano,Sergio Camello,61.0,19.0,6.0,49
+1014,2022,Rayo Vallecano,Fran García,24.0,11.0,2.0,49
+1015,2022,Rayo Vallecano,Iñigo Pérez,0.0,0.0,0.0,49
+1016,2022,Rayo Vallecano,Kévin Rodrigues,0.0,0.0,0.0,49
+1017,2022,Rayo Vallecano,Sergi Guardiola,0.0,0.0,0.0,49
+1018,2022,Rayo Vallecano,Manu Navarro,0.0,0.0,0.0,49
+1019,2022,Rayo Vallecano,Mario Suárez,0.0,0.0,0.0,49
+1020,2022,Rayo Vallecano,Raúl de Tomás,33.0,16.0,4.0,49
+1021,2022,Rayo Vallecano,Bebé,2.0,0.0,0.0,49
+1022,2022,Rayo Vallecano,Sergio Moreno,0.0,0.0,0.0,49
+1023,2022,Rayo Vallecano,A. Bangoura,0.0,0.0,0.0,49
+1024,2022,Rayo Vallecano,Iker Recio,0.0,0.0,0.0,49
+1025,2022,Rayo Vallecano,Álvaro Aguirre,0.0,0.0,0.0,49
+1026,2022,Rayo Vallecano,Jorge Moreno,0.0,0.0,0.0,49
+1027,2022,Rayo Vallecano,Sergio Gimeno,0.0,0.0,0.0,49
+1028,2022,Rayo Vallecano,Vere,0.0,0.0,0.0,49
+1029,2022,Rayo Vallecano,Diego Méndez,0.0,0.0,0.0,49
+1030,2022,Rayo Vallecano,Pablo Muñoz,0.0,0.0,0.0,49
+1031,2022,Elche,Omar Mascarell,8.0,3.0,0.0,25
+1032,2022,Elche,L. Magallán,4.0,2.0,0.0,25
+1033,2022,Elche,L. Boyé,56.0,21.0,7.0,25
+1034,2022,Elche,E. Ponce,20.0,9.0,4.0,25
+1035,2022,Elche,Pape Cheikh,0.0,0.0,0.0,25
+1036,2022,Elche,J. Pastore,0.0,0.0,0.0,25
+1037,2022,Elche,Barragán,0.0,0.0,0.0,25
+1038,2022,Elche,Pol Lirola,1.0,1.0,1.0,25
+1039,2022,Elche,Gonzalo Verdú,8.0,2.0,1.0,25
+1040,2022,Elche,Gerard Gumbau,36.0,18.0,1.0,25
+1041,2022,Elche,Roger,11.0,3.0,0.0,25
+1042,2022,Elche,J. Mojica,0.0,0.0,0.0,25
+1043,2022,Elche,R. Nteka,11.0,4.0,0.0,25
+1044,2022,Elche,Carles Soler,0.0,0.0,0.0,25
+1045,2022,Elche,José Ángel Carmona,4.0,3.0,1.0,25
+1046,2022,Elche,B. Knežević,0.0,0.0,0.0,25
+1047,2022,Elche,Álex Alfaro,0.0,0.0,0.0,25
+1048,2022,Elche,M. Cocca,0.0,0.0,0.0,25
+1049,2022,Mallorca,Lee Kang-In,30.0,14.0,6.0,50
+1050,2022,Mallorca,Manu Morlanes,4.0,2.0,1.0,50
+1051,2022,Mallorca,T. Kadewere,14.0,6.0,1.0,50
+1052,2022,Mallorca,B. Cufré,1.0,0.0,0.0,50
+1053,2022,Mallorca,Raíllo,10.0,4.0,2.0,50
+1054,2022,Mallorca,M. Valjent,4.0,2.0,0.0,50
+1055,2022,Mallorca,I. Baba,10.0,2.0,0.0,50
+1056,2022,Mallorca,Dani Rodríguez,15.0,10.0,3.0,50
+1057,2022,Mallorca,Abdón Prats,5.0,4.0,1.0,50
+1058,2022,Mallorca,V. Muriqi,61.0,30.0,15.0,50
+1059,2022,Mallorca,D. Hadžikadunić,5.0,1.0,0.0,50
+1060,2022,Mallorca,Antonio Sánchez,8.0,5.0,0.0,50
+1061,2022,Mallorca,B. Garay,0.0,0.0,0.0,50
+1062,2022,Mallorca,Miquel Llabrés,0.0,0.0,0.0,50
+1063,2022,Mallorca,Miguel Martín,0.0,0.0,0.0,50
+1064,2022,Mallorca,Javi Llabrés,0.0,0.0,0.0,50
+1065,2022,Mallorca,Rubén Quintanilla,0.0,0.0,0.0,50
+1066,2022,Mallorca,Marcos Fernández,0.0,0.0,0.0,50
+1067,2022,Mallorca,Luis Montiel,0.0,0.0,0.0,50
+1068,2023,Barcelona,Jordi Alba,0.0,0.0,0.0,54
+1069,2023,Barcelona,Sergio Busquets,0.0,0.0,0.0,54
+1070,2023,Barcelona,Álex Collado,0.0,0.0,0.0,54
+1071,2023,Barcelona,R. Lewandowski,47.0,28.0,10.0,54
+1072,2023,Barcelona,João Félix,0.0,0.0,4.0,54
+1073,2023,Barcelona,Raphinha,29.0,15.0,3.0,54
+1074,2023,Barcelona,Nico González,0.0,0.0,0.0,54
+1075,2023,Barcelona,Gerard Martín,0.0,0.0,0.0,54
+1076,2023,Barcelona,Pau Victor,0.0,0.0,0.0,54
+1077,2023,Barcelona,C. Riad,0.0,0.0,0.0,54
+1078,2023,Barcelona,M. Fall,0.0,0.0,0.0,54
+1079,2023,Barcelona,Marc Casadó,0.0,0.0,0.0,54
+1080,2023,Barcelona,Aleix Garrido,0.0,0.0,0.0,54
+1081,2023,Barcelona,Álex Valle,0.0,0.0,0.0,54
+1082,2023,Barcelona,Vitor Roque,6.0,4.0,2.0,54
+1083,2023,Barcelona,Dani Rodríguez,0.0,0.0,0.0,54
+1084,2023,Barcelona,Ángel Alarcón,0.0,0.0,0.0,54
+1085,2023,Barcelona,Lamine Yamal,27.0,13.0,3.0,54
+1086,2023,Barcelona,Marc Guiu,2.0,1.0,1.0,54
+1087,2023,Barcelona,Pau Prim,0.0,0.0,0.0,54
+1088,2023,Atletico Madrid,Vitolo,0.0,0.0,0.0,51
+1089,2023,Atletico Madrid,Sergio Camello,0.0,0.0,0.0,51
+1090,2023,Atletico Madrid,Borja Garcés,0.0,0.0,0.0,51
+1091,2023,Atletico Madrid,Víctor Mollejo,0.0,0.0,0.0,51
+1092,2023,Atletico Madrid,Matheus Cunha,0.0,0.0,0.0,51
+1093,2023,Atletico Madrid,Y. Carrasco,2.0,1.0,0.0,51
+1094,2023,Atletico Madrid,M. Doherty,0.0,0.0,0.0,51
+1095,2023,Atletico Madrid,Diego Bri,0.0,0.0,0.0,51
+1096,2023,Atletico Madrid,Adrián Corral,0.0,0.0,0.0,51
+1097,2023,Atletico Madrid,Dani González,0.0,0.0,0.0,51
+1098,2023,Atletico Madrid,Ethyan González,0.0,0.0,0.0,51
+1099,2023,Atletico Madrid,Santi Miguélez,0.0,0.0,0.0,51
+1100,2023,Atletico Madrid,S. Mouriño,0.0,0.0,0.0,51
+1101,2023,Atletico Madrid,Alberto Moreno,0.0,0.0,0.0,51
+1102,2023,Atletico Madrid,Carlos Martín,0.0,0.0,0.0,51
+1103,2023,Atletico Madrid,Sergio Díez,0.0,0.0,0.0,51
+1104,2023,Atletico Madrid,J. Ginzo,0.0,0.0,0.0,51
+1105,2023,Atletico Madrid,Dani Martínez,0.0,0.0,0.0,51
+1106,2023,Atletico Madrid,I. Vasiljević,0.0,0.0,0.0,51
+1107,2023,Athletic Club,Íñigo Martínez,0.0,0.0,0.0,46
+1108,2023,Athletic Club,Muniain,10.0,5.0,1.0,46
+1109,2023,Athletic Club,Álex Berenguer,12.0,7.0,4.0,46
+1110,2023,Athletic Club,Balenziaga,0.0,0.0,0.0,46
+1111,2023,Athletic Club,Gorka Guruzeta,35.0,23.0,9.0,46
+1112,2023,Athletic Club,I. Williams,45.0,30.0,8.0,46
+1113,2023,Athletic Club,Asier Villalibre,5.0,1.0,1.0,46
+1114,2023,Athletic Club,Oihan Sancet,27.0,10.0,3.0,46
+1115,2023,Athletic Club,Juan Artola,0.0,0.0,0.0,46
+1116,2023,Athletic Club,Álex Petxa,0.0,0.0,0.0,46
+1117,2023,Athletic Club,Nico Williams,27.0,12.0,3.0,46
+1118,2023,Athletic Club,Nico Serrano,0.0,0.0,0.0,46
+1119,2023,Athletic Club,Malcom Adu,1.0,0.0,0.0,46
+1120,2023,Athletic Club,Luis Bilbao,0.0,0.0,0.0,46
+1121,2023,Athletic Club,Unai Gómez,6.0,6.0,2.0,46
+1122,2023,Athletic Club,Mikel Jauregizar,2.0,0.0,0.0,46
+1123,2023,Athletic Club,Junior Bita,0.0,0.0,0.0,46
+1124,2023,Athletic Club,Aingeru Olabarrieta,0.0,0.0,0.0,46
+1125,2023,Valencia,E. Cavani,0.0,0.0,0.0,36
+1126,2023,Valencia,Gabriel Paulista,0.0,0.0,0.0,36
+1127,2023,Valencia,José Gayà,6.0,1.0,1.0,36
+1128,2023,Valencia,R. Yaremchuk,8.0,6.0,2.0,36
+1129,2023,Valencia,Jorge Sáenz,0.0,0.0,0.0,36
+1130,2023,Valencia,Hugo Duro,40.0,19.0,10.0,36
+1131,2023,Valencia,Hugo González,0.0,0.0,0.0,36
+1132,2023,Valencia,Pablo Gozálbez,1.0,0.0,0.0,36
+1133,2023,Valencia,Y. Musah,0.0,0.0,0.0,36
+1134,2023,Valencia,Diego López,15.0,10.0,3.0,36
+1135,2023,Valencia,Marco Camus,0.0,0.0,0.0,36
+1136,2023,Valencia,P. González,1.0,0.0,0.0,36
+1137,2023,Valencia,Alberto Marí,0.0,0.0,0.0,36
+1138,2023,Valencia,Javi Navarro,0.0,0.0,0.0,36
+1139,2023,Valencia,Joselu Pérez,0.0,0.0,0.0,36
+1140,2023,Valencia,Martín Tejón,0.0,0.0,0.0,36
+1141,2023,Valencia,Mario Domínguez,3.0,1.0,0.0,36
+1142,2023,Valencia,Jesús Santiago,0.0,0.0,0.0,36
+1143,2023,Valencia,A. Fadal,0.0,0.0,0.0,36
+1144,2023,Valencia,David Otorbi,0.0,0.0,0.0,36
+1145,2023,Villarreal,A. Danjuma,0.0,0.0,0.0,26
+1146,2023,Villarreal,S. Chukwueze,0.0,0.0,0.0,26
+1147,2023,Villarreal,Iborra,0.0,0.0,0.0,26
+1148,2023,Villarreal,Iván Martín,0.0,0.0,0.0,26
+1149,2023,Villarreal,Manu Morlanes,0.0,0.0,0.0,26
+1150,2023,Villarreal,A. Sørloth,29.0,18.0,8.0,26
+1151,2023,Villarreal,Pau Torres,0.0,0.0,0.0,26
+1152,2023,Villarreal,José Luis Morales,13.0,8.0,6.0,26
+1153,2023,Villarreal,J. Mojica,0.0,0.0,0.0,26
+1154,2023,Villarreal,Sergio Carreira,0.0,0.0,0.0,26
+1155,2023,Villarreal,Álex Baena,33.0,17.0,1.0,26
+1156,2023,Villarreal,Diego Collado,0.0,0.0,0.0,26
+1157,2023,Villarreal,Álex Forés,0.0,0.0,0.0,26
+1158,2023,Villarreal,Carlo Adriano,0.0,0.0,0.0,26
+1159,2023,Villarreal,Dani Tasende,0.0,0.0,0.0,26
+1160,2023,Villarreal,Jorge Pascual,0.0,0.0,0.0,26
+1161,2023,Villarreal,Ilias Akhomach,9.0,4.0,1.0,26
+1162,2023,Villarreal,M. Fall,0.0,0.0,0.0,26
+1163,2023,Villarreal,Víctor Moreno,0.0,0.0,0.0,26
+1164,2023,Las Palmas,M. El Haddadi,24.0,7.0,2.0,35
+1165,2023,Las Palmas,Jonathan Viera,13.0,6.0,2.0,35
+1166,2023,Las Palmas,S. Kaba,8.0,1.0,1.0,35
+1167,2023,Las Palmas,Marc Cardona,11.0,6.0,3.0,35
+1168,2023,Las Palmas,Saúl Coco,11.0,4.0,1.0,35
+1169,2023,Las Palmas,Enrique Clemente,0.0,0.0,0.0,35
+1170,2023,Las Palmas,Joel del Pino,0.0,0.0,0.0,35
+1171,2023,Las Palmas,Claudio,0.0,0.0,0.0,35
+1172,2023,Las Palmas,Unai Veiga,0.0,0.0,0.0,35
+1173,2023,Las Palmas,Julen Pérez,0.0,0.0,0.0,35
+1174,2023,Las Palmas,Cristian Abreu,0.0,0.0,0.0,35
+1175,2023,Las Palmas,Isaac,0.0,0.0,0.0,35
+1176,2023,Las Palmas,Joaquín,0.0,0.0,0.0,35
+1177,2023,Las Palmas,M. Perrone,5.0,1.0,0.0,35
+1178,2023,Las Palmas,Ale García,0.0,0.0,0.0,35
+1179,2023,Las Palmas,Pau Ferrer,0.0,0.0,0.0,35
+1180,2023,Las Palmas,Ale Palanca,0.0,0.0,0.0,35
+1181,2023,Las Palmas,D. Bassinga,0.0,0.0,0.0,35
+1182,2023,Sevilla,T. Delaney,0.0,0.0,0.0,24
+1183,2023,Sevilla,Rony Lopes,0.0,0.0,0.0,24
+1184,2023,Sevilla,Alex Telles,0.0,0.0,0.0,24
+1185,2023,Sevilla,Bryan Gil,0.0,0.0,0.0,24
+1186,2023,Sevilla,O. Idrissi,0.0,0.0,0.0,24
+1187,2023,Sevilla,L. Augustinsson,0.0,0.0,0.0,24
+1188,2023,Sevilla,K. Rekik,0.0,0.0,0.0,24
+1189,2023,Sevilla,D. Lukébakio,21.0,8.0,2.0,24
+1190,2023,Sevilla,Pedro Ortiz,0.0,0.0,0.0,24
+1191,2023,Sevilla,Nacho Quintana,0.0,0.0,0.0,24
+1192,2023,Sevilla,Juanlu Sánchez,9.0,1.0,0.0,24
+1193,2023,Sevilla,Luismi Cruz,0.0,0.0,0.0,24
+1194,2023,Sevilla,Iván Romero,0.0,0.0,0.0,24
+1195,2023,Sevilla,José Ángel Carmona,0.0,0.0,0.0,24
+1196,2023,Sevilla,Pablo Pérez,0.0,0.0,0.0,24
+1197,2023,Sevilla,Israel Dominguez,0.0,0.0,0.0,24
+1198,2023,Sevilla,A. Véliz,0.0,0.0,0.0,24
+1199,2023,Sevilla,Oso,0.0,0.0,0.0,24
+1200,2023,Celta Vigo,F. Cervi,2.0,1.0,0.0,20
+1201,2023,Celta Vigo,Santi Mina,0.0,0.0,0.0,20
+1202,2023,Celta Vigo,Jaílson,1.0,1.0,0.0,20
+1203,2023,Celta Vigo,J. Strand Larsen,43.0,20.0,9.0,20
+1204,2023,Celta Vigo,R. Tapia,12.0,1.0,0.0,20
+1205,2023,Celta Vigo,L. de la Torre,9.0,6.0,1.0,20
+1206,2023,Celta Vigo,J. Bamba,21.0,14.0,2.0,20
+1207,2023,Celta Vigo,T. Douvikas,12.0,10.0,4.0,20
+1208,2023,Celta Vigo,Fran Beltrán,6.0,1.0,0.0,20
+1209,2023,Celta Vigo,Iago Aspas,40.0,17.0,3.0,20
+1210,2023,Celta Vigo,Carles Pérez,5.0,1.0,0.0,20
+1211,2023,Celta Vigo,Alfon González,0.0,0.0,0.0,20
+1212,2023,Celta Vigo,Sergio Carreira,0.0,0.0,0.0,20
+1213,2023,Celta Vigo,Carlos Dotor,3.0,0.0,0.0,20
+1214,2023,Celta Vigo,Miguel Rodríguez,3.0,0.0,0.0,20
+1215,2023,Celta Vigo,W. Swedberg,3.0,2.0,2.0,20
+1216,2023,Celta Vigo,T. Allende,2.0,1.0,1.0,20
+1217,2023,Celta Vigo,Hugo Sotelo,4.0,1.0,0.0,20
+1218,2023,Celta Vigo,Hugo Álvarez,0.0,0.0,0.0,20
+1219,2023,Real Madrid,Brahim Díaz,16.0,9.0,4.0,61
+1220,2023,Real Madrid,Dani Ceballos,1.0,0.0,0.0,61
+1221,2023,Real Madrid,F. Valverde,27.0,11.0,1.0,61
+1222,2023,Real Madrid,Lucas Vázquez,6.0,4.0,1.0,61
+1223,2023,Real Madrid,Vinícius Júnior,31.0,19.0,7.0,61
+1224,2023,Real Madrid,A. Tchouaméni,9.0,4.0,2.0,61
+1225,2023,Real Madrid,E. Camavinga,4.0,2.0,0.0,61
+1226,2023,Real Madrid,Rodrygo,52.0,24.0,8.0,61
+1227,2023,Real Madrid,Reinier,0.0,0.0,0.0,61
+1228,2023,Real Madrid,Joselu,34.0,20.0,7.0,61
+1229,2023,Real Madrid,Juanmi Latasa,0.0,0.0,0.0,61
+1230,2023,Real Madrid,T. Zidane,0.0,0.0,0.0,61
+1231,2023,Real Madrid,A. Güler,0.0,0.0,0.0,61
+1232,2023,Real Madrid,Edgar Pujol,0.0,0.0,0.0,61
+1233,2023,Real Madrid,Marvel,0.0,0.0,0.0,61
+1234,2023,Real Madrid,Gonzalo García,1.0,1.0,0.0,61
+1235,2023,Real Madrid,Á. Rodríguez,0.0,0.0,0.0,61
+1236,2023,Real Madrid,Mario Martín,0.0,0.0,0.0,61
+1237,2023,Real Madrid,N. Paz,1.0,0.0,0.0,61
+1238,2023,Alaves,F. Lejeune,0.0,0.0,0.0,27
+1239,2023,Alaves,T. Hara,0.0,0.0,0.0,27
+1240,2023,Alaves,Salva Sevilla,0.0,0.0,0.0,27
+1241,2023,Alaves,Luis Rioja,25.0,14.0,4.0,27
+1242,2023,Alaves,Laguardia,0.0,0.0,0.0,27
+1243,2023,Alaves,Kike García,36.0,20.0,3.0,27
+1244,2023,Alaves,Xeber Alkain,4.0,0.0,0.0,27
+1245,2023,Alaves,A. Mahmoud,0.0,0.0,0.0,27
+1246,2023,Alaves,Álex Balboa,0.0,0.0,0.0,27
+1247,2023,Alaves,A. Rebbach,12.0,4.0,1.0,27
+1248,2023,Alaves,Carlos Vicente,4.0,1.0,0.0,27
+1249,2023,Alaves,Unai Ropero,0.0,0.0,0.0,27
+1250,2023,Alaves,G. Gagua,0.0,0.0,0.0,27
+1251,2023,Alaves,Selu Diallo,0.0,0.0,0.0,27
+1252,2023,Alaves,José de León,0.0,0.0,0.0,27
+1253,2023,Alaves,Tomás Mendes,0.0,0.0,0.0,27
+1254,2023,Alaves,G. Simeone,0.0,0.0,0.0,27
+1255,2023,Alaves,Samu Omorodion,36.0,17.0,8.0,27
+1256,2023,Alaves,J. Panichelli,0.0,0.0,0.0,27
+1257,2023,Alaves,Ander Sánchez,0.0,0.0,0.0,27
+1258,2023,Real Betis,Álex Collado,0.0,0.0,0.0,38
+1259,2023,Real Betis,N. Fekir,8.0,3.0,0.0,38
+1260,2023,Real Betis,Y. Fékir,0.0,0.0,0.0,38
+1261,2023,Real Betis,Isco,37.0,22.0,6.0,38
+1262,2023,Real Betis,Sergio Canales,0.0,0.0,0.0,38
+1263,2023,Real Betis,Loren Morón,0.0,0.0,0.0,38
+1264,2023,Real Betis,C. Bakambu,0.0,0.0,0.0,38
+1265,2023,Real Betis,Ayoze Pérez,34.0,14.0,4.0,38
+1266,2023,Real Betis,Martín Montoya,0.0,0.0,0.0,38
+1267,2023,Real Betis,Willian José,27.0,15.0,7.0,38
+1268,2023,Real Betis,Juanmi,2.0,1.0,0.0,38
+1269,2023,Real Betis,E. Ávila,19.0,6.0,0.0,38
+1270,2023,Real Betis,A. Ezzalzouli,4.0,1.0,1.0,38
+1271,2023,Real Betis,C. Riad,7.0,3.0,0.0,38
+1272,2023,Real Betis,Enrique Fernández,0.0,0.0,0.0,38
+1273,2023,Real Betis,Félix Garreta,0.0,0.0,0.0,38
+1274,2023,Real Betis,Ginés Sorroche,0.0,0.0,0.0,38
+1275,2023,Real Betis,Dani Pérez,0.0,0.0,0.0,38
+1276,2023,Real Betis,Assane Diao,13.0,3.0,2.0,38
+1277,2023,Getafe,Carles Aleñá,9.0,4.0,1.0,34
+1278,2023,Getafe,Jaime Seoane,0.0,0.0,0.0,34
+1279,2023,Getafe,M. Greenwood,36.0,18.0,5.0,34
+1280,2023,Getafe,Jaime Mata,10.0,5.0,3.0,34
+1281,2023,Getafe,J. Harper,0.0,0.0,0.0,34
+1282,2023,Getafe,D. Suárez,3.0,1.0,0.0,34
+1283,2023,Getafe,J. Silva,0.0,0.0,0.0,34
+1284,2023,Getafe,Óscar Rodríguez,8.0,3.0,1.0,34
+1285,2023,Getafe,E. Cabaco,0.0,0.0,0.0,34
+1286,2023,Getafe,Borja Mayoral,32.0,26.0,15.0,34
+1287,2023,Getafe,Portu,1.0,1.0,0.0,34
+1288,2023,Getafe,A. Lozano,0.0,0.0,0.0,34
+1289,2023,Getafe,Ángel Algobia,0.0,0.0,0.0,34
+1290,2023,Getafe,Juanmi Latasa,26.0,12.0,2.0,34
+1291,2023,Getafe,Jordi Martín,5.0,3.0,0.0,34
+1292,2023,Getafe,I. Moriba,0.0,0.0,0.0,34
+1293,2023,Getafe,Santi García,0.0,0.0,0.0,34
+1294,2023,Getafe,Facu Esnáider,0.0,0.0,0.0,34
+1295,2023,Getafe,J. Patrick,0.0,0.0,0.0,34
+1296,2023,Getafe,Yellu Santiago,0.0,0.0,0.0,34
+1297,2023,Girona,Iván Martín,11.0,8.0,4.0,56
+1298,2023,Girona,V. Tsyhankov,17.0,9.0,4.0,56
+1299,2023,Girona,C. Stuani,23.0,13.0,7.0,56
+1300,2023,Girona,A. Dovbyk,46.0,26.0,14.0,56
+1301,2023,Girona,Oriol Romeu,0.0,0.0,0.0,56
+1302,2023,Girona,Portu,1.0,1.0,3.0,56
+1303,2023,Girona,Pau Victor,0.0,0.0,0.0,56
+1304,2023,Girona,Sávio,18.0,11.0,5.0,56
+1305,2023,Girona,Arnau Martínez,1.0,0.0,0.0,56
+1306,2023,Girona,Eric Monjonell,0.0,0.0,0.0,56
+1307,2023,Girona,Oscar Ureña,0.0,0.0,0.0,56
+1308,2023,Girona,Ricard Artero,0.0,0.0,0.0,56
+1309,2023,Girona,Biel Farrés,0.0,0.0,0.0,56
+1310,2023,Girona,Joel Roca,0.0,0.0,0.0,56
+1311,2023,Girona,Alex Almansa,0.0,0.0,0.0,56
+1312,2023,Girona,Jastin García,0.0,0.0,0.0,56
+1313,2023,Girona,Iker Almena,0.0,0.0,0.0,56
+1314,2023,Girona,Silvi,0.0,0.0,0.0,56
+1315,2023,Girona,J. Arango,0.0,0.0,0.0,56
+1316,2023,Real Sociedad,David Silva,0.0,0.0,0.0,37
+1317,2023,Real Sociedad,André Silva,6.0,2.0,0.0,37
+1318,2023,Real Sociedad,A. Sørloth,0.0,0.0,0.0,37
+1319,2023,Real Sociedad,Diego Rico,8.0,1.0,0.0,37
+1320,2023,Real Sociedad,U. Sadiq,24.0,9.0,2.0,37
+1321,2023,Real Sociedad,S. Becker,1.0,0.0,0.0,37
+1322,2023,Real Sociedad,Carlos Fernández,8.0,4.0,2.0,37
+1323,2023,Real Sociedad,Andoni Gorosabel,5.0,5.0,0.0,37
+1324,2023,Real Sociedad,Álex Sola,14.0,5.0,0.0,37
+1325,2023,Real Sociedad,Guevara,0.0,0.0,0.0,37
+1326,2023,Real Sociedad,Barrenetxea,17.0,9.0,3.0,37
+1327,2023,Real Sociedad,Martín Merquelanz,0.0,0.0,0.0,37
+1328,2023,Real Sociedad,Mikel Oyarzabal,20.0,15.0,8.0,37
+1329,2023,Real Sociedad,Robert Navarro,9.0,3.0,0.0,37
+1330,2023,Real Sociedad,B. Fiabema,0.0,0.0,0.0,37
+1331,2023,Real Sociedad,J. Gómez,0.0,0.0,0.0,37
+1332,2023,Real Sociedad,Alberto Dadie,0.0,0.0,0.0,37
+1333,2023,Real Sociedad,A. Lebarbier,0.0,0.0,0.0,37
+1334,2023,Granada CF,José Callejón,8.0,4.0,0.0,13
+1335,2023,Granada CF,L. Boyé,22.0,8.0,3.0,13
+1336,2023,Granada CF,B. Méndez,5.0,3.0,1.0,13
+1337,2023,Granada CF,M. Uzuni,30.0,17.0,6.0,13
+1338,2023,Granada CF,K. Jóźwiak,0.0,0.0,0.0,13
+1339,2023,Granada CF,N. Petrović,1.0,1.0,0.0,13
+1340,2023,Granada CF,Jorge Molina,0.0,0.0,0.0,13
+1341,2023,Granada CF,Rochina,0.0,0.0,0.0,13
+1342,2023,Granada CF,M. Arezo,5.0,2.0,0.0,13
+1343,2023,Granada CF,M. Hongla,0.0,0.0,0.0,13
+1344,2023,Granada CF,F. Pellistri,2.0,2.0,1.0,13
+1345,2023,Granada CF,S. Weissman,1.0,0.0,0.0,13
+1346,2023,Granada CF,Antoñín Cortés,0.0,0.0,0.0,13
+1347,2023,Granada CF,Pepe Sánchez,0.0,0.0,0.0,13
+1348,2023,Granada CF,Isma Ruiz,0.0,0.0,0.0,13
+1349,2023,Granada CF,Pablo Sáenz,0.0,0.0,0.0,13
+1350,2023,Granada CF,T. Corbeanu,0.0,0.0,0.0,13
+1351,2023,Granada CF,Miguel Brau,0.0,0.0,0.0,13
+1352,2023,Granada CF,L. Sangaré,0.0,0.0,0.0,13
+1353,2023,Granada CF,E. Bello,0.0,0.0,0.0,13
+1354,2023,Almeria,Jonathan Viera,13.0,6.0,0.0,7
+1355,2023,Almeria,Léo Baptistão,27.0,11.0,4.0,7
+1356,2023,Almeria,I. Koné,3.0,2.0,0.0,7
+1357,2023,Almeria,Iván Martos,0.0,0.0,0.0,7
+1358,2023,Almeria,César de la Hoz,0.0,0.0,0.0,7
+1359,2023,Almeria,Íñigo Eguaras,0.0,0.0,0.0,7
+1360,2023,Almeria,L. Suárez,27.0,12.0,4.0,7
+1361,2023,Almeria,A. Lozano,0.0,0.0,0.0,7
+1362,2023,Almeria,Adri Embarba,22.0,12.0,0.0,7
+1363,2023,Almeria,Gonzalo Melero,10.0,2.0,0.0,7
+1364,2023,Almeria,C. Olivera,0.0,0.0,0.0,7
+1365,2023,Almeria,L. Ramazani,23.0,11.0,3.0,7
+1366,2023,Almeria,Arnau Solà,0.0,0.0,0.0,7
+1367,2023,Almeria,Sergio Arribas,39.0,17.0,6.0,7
+1368,2023,Almeria,L. Romero,0.0,0.0,0.0,7
+1369,2023,Almeria,M. Šviderský,0.0,0.0,0.0,7
+1370,2023,Almeria,Gui,0.0,0.0,0.0,7
+1371,2023,Almeria,Marezi,1.0,0.0,0.0,7
+1372,2023,Almeria,R. Fettal,1.0,0.0,0.0,7
+1373,2023,Almeria,Marcos Peña,0.0,0.0,0.0,7
+1374,2023,Cadiz,Rubén Sobrino,5.0,1.0,0.0,17
+1375,2023,Cadiz,D. Samassékou,0.0,0.0,0.0,17
+1376,2023,Cadiz,D. Machís,14.0,9.0,3.0,17
+1377,2023,Cadiz,M. Gómez,8.0,5.0,0.0,17
+1378,2023,Cadiz,Fede San Emeterio,1.0,1.0,1.0,17
+1379,2023,Cadiz,Juan Cala,0.0,0.0,0.0,17
+1380,2023,Cadiz,Juanmi,2.0,1.0,0.0,17
+1381,2023,Cadiz,G. Escalante,5.0,1.0,0.0,17
+1382,2023,Cadiz,Roger,18.0,9.0,2.0,17
+1383,2023,Cadiz,Sergi Guardiola,5.0,1.0,0.0,17
+1384,2023,Cadiz,B. Ocampo,2.0,1.0,0.0,17
+1385,2023,Cadiz,Robert Navarro,9.0,3.0,0.0,17
+1386,2023,Cadiz,Chris Ramos,42.0,17.0,5.0,17
+1387,2023,Cadiz,L. Spatz,0.0,0.0,0.0,17
+1388,2023,Cadiz,F. Mwepu,0.0,0.0,0.0,17
+1389,2023,Cadiz,Álvaro Bastida,0.0,0.0,0.0,17
+1390,2023,Cadiz,M. Diakité,0.0,0.0,0.0,17
+1391,2023,Cadiz,Etta Eyong,0.0,0.0,0.0,17
+1392,2023,Cadiz,A. Njalla,0.0,0.0,0.0,17
+1393,2023,Cadiz,José de la Rosa,0.0,0.0,0.0,17
+1394,2023,Osasuna,Lucas Torró,16.0,4.0,0.0,32
+1395,2023,Osasuna,David García,12.0,2.0,0.0,32
+1396,2023,Osasuna,Nacho Vidal,1.0,1.0,1.0,32
+1397,2023,Osasuna,Rubén García,6.0,5.0,2.0,32
+1398,2023,Osasuna,Moncayola,7.0,3.0,0.0,32
+1399,2023,Osasuna,Kike Barja,3.0,2.0,0.0,32
+1400,2023,Osasuna,A. Budimir,42.0,24.0,11.0,32
+1401,2023,Osasuna,Rubén Peña,6.0,2.0,0.0,32
+1402,2023,Osasuna,Kike García,36.0,20.0,0.0,32
+1403,2023,Osasuna,José Arnaiz,16.0,7.0,1.0,32
+1404,2023,Osasuna,Catena,9.0,3.0,1.0,32
+1405,2023,Osasuna,Moi Gómez,10.0,7.0,2.0,32
+1406,2023,Osasuna,J. Mojica,6.0,1.0,0.0,32
+1407,2023,Osasuna,Aimar Oroz,10.0,3.0,1.0,32
+1408,2023,Osasuna,Pablo Ibáñez,14.0,5.0,1.0,32
+1409,2023,Osasuna,Raúl García,13.0,4.0,3.0,32
+1410,2023,Osasuna,Jesús Areso,3.0,2.0,1.0,32
+1411,2023,Osasuna,Jorge Herrando,0.0,0.0,0.0,32
+1412,2023,Osasuna,Iker Muñoz,9.0,3.0,2.0,32
+1413,2023,Rayo Vallecano,Sergio Camello,14.0,8.0,2.0,24
+1414,2023,Rayo Vallecano,R. Falcao,5.0,3.0,1.0,24
+1415,2023,Rayo Vallecano,P. Ciss,15.0,6.0,1.0,24
+1416,2023,Rayo Vallecano,Miguel Crespo,0.0,0.0,0.0,24
+1417,2023,Rayo Vallecano,E. Saveljich,0.0,0.0,0.0,24
+1418,2023,Rayo Vallecano,Óscar Valentín,9.0,6.0,1.0,24
+1419,2023,Rayo Vallecano,Unai López,15.0,3.0,1.0,24
+1420,2023,Rayo Vallecano,Álvaro García,24.0,11.0,6.0,24
+1421,2023,Rayo Vallecano,Mario Suárez,0.0,0.0,0.0,24
+1422,2023,Rayo Vallecano,Raúl de Tomás,19.0,8.0,0.0,24
+1423,2023,Rayo Vallecano,Bebé,8.0,4.0,2.0,24
+1424,2023,Rayo Vallecano,Sergio Moreno,0.0,0.0,0.0,24
+1425,2023,Rayo Vallecano,Kike Pérez,9.0,5.0,1.0,24
+1426,2023,Rayo Vallecano,Mario Hernández,0.0,0.0,0.0,24
+1427,2023,Rayo Vallecano,R. Nteka,7.0,4.0,1.0,24
+1428,2023,Rayo Vallecano,Jorge de Frutos,11.0,6.0,1.0,24
+1429,2023,Rayo Vallecano,Jorge Moreno,0.0,0.0,0.0,24
+1430,2023,Rayo Vallecano,Diego Méndez,0.0,0.0,0.0,24
+1431,2023,Rayo Vallecano,Pablo Muñoz,0.0,0.0,0.0,24
+1432,2023,Mallorca,Omar Mascarell,2.0,0.0,0.0,23
+1433,2023,Mallorca,Manu Morlanes,2.0,1.0,0.0,23
+1434,2023,Mallorca,N. Radonjić,0.0,0.0,0.0,23
+1435,2023,Mallorca,C. Larin,43.0,19.0,2.0,23
+1436,2023,Mallorca,B. Cufré,0.0,0.0,0.0,23
+1437,2023,Mallorca,I. Baba,6.0,2.0,0.0,23
+1438,2023,Mallorca,Dani Rodríguez,17.0,4.0,2.0,23
+1439,2023,Mallorca,Abdón Prats,14.0,8.0,5.0,23
+1440,2023,Mallorca,Darder,10.0,5.0,0.0,23
+1441,2023,Mallorca,V. Muriqi,33.0,16.0,5.0,23
+1442,2023,Mallorca,Antonio Sánchez,14.0,8.0,2.0,23
+1443,2023,Mallorca,B. Garay,0.0,0.0,0.0,23
+1444,2023,Mallorca,Miquel Llabrés,0.0,0.0,0.0,23
+1445,2023,Mallorca,Josep Gayá,0.0,0.0,0.0,23
+1446,2023,Mallorca,Samú Costa,13.0,3.0,1.0,23
+1447,2023,Mallorca,Javi Llabrés,3.0,2.0,1.0,23
+1448,2023,Mallorca,Rubén Quintanilla,0.0,0.0,0.0,23
+1449,2023,Mallorca,Pau Mascaró,0.0,0.0,0.0,23
+1450,2023,Mallorca,Luis Montiel,0.0,0.0,0.0,23

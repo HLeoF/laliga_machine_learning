@@ -115,3 +115,20 @@ plt.title("Confusion Matrix",fontsize=20)
 plt.xlabel("Actual", fontsize=15)
 plt.ylabel("Predicted", fontsize=15)
 plt.show()
+
+
+################ Defenders predictions result show in dataset#############
+temp = pd.DataFrame(predictions3)
+temp = temp.rename(columns={0:'label'})
+temp3 = playerTestDF.reset_index()
+temp3 = temp3.drop(['index'],axis=1)
+merged_df = pd.merge(temp3, temp, left_index=True, right_index=True)
+merged_df
+
+club = pd.read_csv("Clubs_DF.csv")
+club = club[['season','teamName','PTS']]
+club = club.drop_duplicates()
+merged_df = pd.merge(merged_df, club, on=['season','teamName'],how='left')
+temp4 = merged_df.sort_values(by=['season', 'PTS'], ascending=[True, False])
+temp4 = temp4[['season','teamName','playerName','label','PTS']]
+temp4

@@ -1,0 +1,68 @@
+,season,teamName,playerName,position,pass_accura,tackle_blocks,tackle_intercep,fouls_committed,performance
+596,2021,Real Madrid,Miguel Gutiérrez,Defender,47.0,0.0,2.0,3.0,Normal
+667,2021,Real Sociedad,Andoni Gorosabel,Defender,31.0,3.0,18.0,27.0,Bad
+390,2020,Elche,J. Mojica,Defender,24.0,4.0,15.0,17.0,Good
+898,2022,Villarreal,M. Fall,Defender,7.0,0.0,0.0,1.0,Good
+47,2020,Athletic Club,Unai Núñez,Defender,41.0,14.0,31.0,22.0,Normal
+520,2021,Celta Vigo,J. Murillo,Defender,32.0,8.0,17.0,13.0,Normal
+823,2022,Atletico Madrid,M. Doherty,Defender,2.0,0.0,0.0,1.0,Good
+1137,2022,Osasuna,Jorge Herrando,Defender,3.0,0.0,0.0,1.0,Good
+325,2020,Cadiz,M. Mauro,Defender,17.0,12.0,22.0,11.0,Good
+634,2021,Real Betis,Kike Hermoso,Defender,50.0,1.0,0.0,1.0,Normal
+445,2021,Athletic Club,De Marcos,Defender,29.0,3.0,19.0,25.0,Bad
+108,2020,Sevilla,Aleix Vidal,Defender,30.0,1.0,12.0,5.0,Good
+972,2022,Real Madrid,Miguel Gutiérrez,Defender,26.0,5.0,18.0,24.0,Bad
+37,2020,Atletico Madrid,Ricard Sánchez,Defender,8.0,0.0,0.0,0.0,Good
+265,2020,Real Sociedad,Andoni Gorosabel,Defender,27.0,4.0,25.0,36.0,Bad
+1185,2022,Mallorca,M. Valjent,Defender,28.0,21.0,29.0,33.0,Bad
+845,2022,Athletic Club,De Marcos,Defender,30.0,6.0,29.0,43.0,Bad
+65,2020,Valencia,José Gayà,Defender,29.0,3.0,38.0,30.0,Bad
+1048,2022,Real Sociedad,Joseba Zaldúa,Defender,16.0,2.0,11.0,11.0,Good
+261,2020,Real Sociedad,Nacho Monreal,Defender,30.0,3.0,32.0,25.0,Bad
+958,2022,Espanyol,Simo,Defender,11.0,4.0,0.0,2.0,Good
+422,2021,Atletico Madrid,Šime Vrsaljko,Defender,16.0,1.0,12.0,13.0,Good
+1147,2022,Rayo Vallecano,Mario Suárez,Defender,2.0,0.0,0.0,0.0,Good
+83,2020,Villarreal,Raúl Albiol,Defender,52.0,22.0,22.0,13.0,Normal
+580,2021,Real Madrid,Éder Militão,Defender,52.0,20.0,52.0,38.0,Bad
+1085,2022,Almeria,Álex Pozo,Defender,21.0,5.0,26.0,15.0,Bad
+440,2021,Athletic Club,Íñigo Martínez,Defender,35.0,10.0,39.0,33.0,Bad
+63,2020,Valencia,Gabriel Paulista,Defender,42.0,27.0,59.0,18.0,Bad
+175,2020,Real Madrid,Miguel Gutiérrez,Defender,33.0,0.0,5.0,6.0,Good
+697,2021,Granada CF,Raúl Torrente,Defender,24.0,9.0,12.0,24.0,Good
+501,2021,Sevilla,J. Koundé,Defender,58.0,18.0,21.0,15.0,Normal
+213,2020,Real Betis,Aitor Ruibal,Defender,14.0,0.0,11.0,36.0,Bad
+484,2021,Villarreal,Raúl Albiol,Defender,47.0,15.0,21.0,18.0,Normal
+1047,2022,Real Sociedad,Álex Sola,Defender,11.0,2.0,7.0,3.0,Good
+308,2020,Valladolid,Javi Moyano,Defender,8.0,0.0,0.0,0.0,Good
+487,2021,Villarreal,A. Mandi,Defender,54.0,14.0,13.0,14.0,Normal
+351,2020,Huesca,Javi Galán,Defender,28.0,4.0,39.0,61.0,Bad
+624,2021,Real Betis,Marc Bartra,Defender,40.0,22.0,33.0,21.0,Normal
+631,2021,Real Betis,Aitor Ruibal,Defender,12.0,0.0,8.0,23.0,Good
+446,2021,Athletic Club,Unai Núñez,Defender,32.0,8.0,8.0,10.0,Good
+366,2020,Osasuna,Oier,Defender,17.0,6.0,29.0,58.0,Bad
+1030,2022,Girona,Arnau Martínez,Defender,31.0,10.0,24.0,36.0,Bad
+544,2021,Levante,Coke,Defender,7.0,0.0,2.0,4.0,Good
+402,2021,Barcelona,Piqué,Defender,55.0,16.0,34.0,30.0,Normal
+346,2020,Huesca,D. Siovas,Defender,41.0,17.0,62.0,40.0,Bad
+1184,2022,Mallorca,Raíllo,Defender,29.0,27.0,31.0,41.0,Bad
+508,2021,Sevilla,Diego Carlos,Defender,56.0,33.0,24.0,33.0,Normal
+629,2021,Real Betis,G. Pezzella,Defender,38.0,18.0,39.0,26.0,Bad
+561,2021,Espanyol,Aleix Vidal,Defender,24.0,6.0,25.0,24.0,Bad
+741,2021,Rayo Vallecano,Fran García,Defender,28.0,8.0,45.0,24.0,Bad
+1174,2022,Elche,José Ángel Carmona,Defender,11.0,2.0,8.0,19.0,Good
+144,2020,Levante,Toño,Defender,24.0,1.0,7.0,10.0,Good
+82,2020,Villarreal,Alberto Moreno,Defender,18.0,1.0,3.0,3.0,Good
+934,2022,Celta Vigo,Carlos Domínguez,Defender,9.0,1.0,0.0,0.0,Good
+607,2021,Alaves,Ximo Navarro,Defender,17.0,5.0,22.0,16.0,Good
+101,2020,Sevilla,J. Koundé,Defender,62.0,16.0,40.0,20.0,Normal
+66,2020,Valencia,Hugo Guillamón,Defender,41.0,14.0,27.0,32.0,Bad
+289,2020,Granada CF,K. Fobi,Defender,4.0,0.0,1.0,0.0,Good
+1121,2022,Osasuna,David García,Defender,35.0,13.0,45.0,54.0,Bad
+238,2020,Eibar,Rafa Soares,Defender,18.0,4.0,20.0,8.0,Good
+266,2020,Real Sociedad,Joseba Zaldúa,Defender,18.0,2.0,6.0,14.0,Good
+21,2020,Atletico Madrid,J. Giménez,Defender,45.0,11.0,21.0,19.0,Normal
+626,2021,Real Betis,Edgar González,Defender,39.0,11.0,23.0,21.0,Normal
+223,2020,Eibar,E. Burgos,Defender,29.0,7.0,23.0,14.0,Normal
+708,2021,Cadiz,Juan Cala,Defender,15.0,6.0,12.0,11.0,Good
+860,2022,Valencia,Gabriel Paulista,Defender,30.0,14.0,29.0,10.0,Normal
+746,2021,Rayo Vallecano,Kévin Rodrigues,Defender,11.0,1.0,7.0,5.0,Good

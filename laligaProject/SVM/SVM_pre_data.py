@@ -51,7 +51,7 @@ if not disjoint_check.empty:
 else:
     print("Train and Test set have not same rows")
 
-playerTrainDF.to_csv("DTTrainDF.csv")
-playerTestDF.to_csv("DTTestDF.csv")
+playerTrainDF.to_csv("SVMTrainDF.csv")
+playerTestDF.to_csv("SVMTestDF.csv")
 print(playerTrainDF)
 print(playerTestDF)
